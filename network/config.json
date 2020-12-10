@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Ville-Pekka Kääriäinen"
+  },
+  "text": {
+    "more": "Social Network of Iisalmi parish District Court 1639-1651. Nodes persons appearing in District Court sessions (Fi: käräjät, Swe: ting). Edges represent relationship between persons. Appearing in same Court Case is considered as relationship",
+    "intro": "Social Network of Iisalmi parish District Court 1639-1651.",
+    "title": "Social Network Analysis and 17th century Court Records"
+  },
+  "legend": {
+    "edgeLabel": "Relationship in Court",
+    "colorLabel": "Modularity",
+    "nodeLabel": "Person"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
