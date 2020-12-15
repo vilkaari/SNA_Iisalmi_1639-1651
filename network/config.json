@@ -8,18 +8,18 @@
     "text": "Ville-Pekka Kääriäinen"
   },
   "text": {
-    "more": "Social Network of Iisalmi parish District Court 1639-1651. Nodes persons appearing in District Court sessions (Fi: käräjät, Swe: ting). Edges represent relationship between persons. Appearing in same Court Case is considered as relationship",
+    "more": "Social Network of Iisalmi parish District Court 1639-1651. Nodes are persons appearing in District Court sessions (Fi: käräjät, Swe: ting). Edges represent relationship between persons that appear in same Court Case. Most of the persons with highest \"Betweeness Centrality\" and \"Degree\" are the lay members of the court (Fi: lautamiehet, Swe: Nämndemän).",
     "intro": "Social Network of Iisalmi parish District Court 1639-1651.",
     "title": "Social Network Analysis and 17th century Court Records"
   },
   "legend": {
-    "edgeLabel": "Relationship in Court",
-    "colorLabel": "Modularity",
+    "edgeLabel": "Relationship in District Court Case",
+    "colorLabel": "Modularity Class",
     "nodeLabel": "Person"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "Modularity Class",
     "hoverBehavior": "default"
   },
   "informationPanel": {
@@ -37,13 +37,13 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "defaultLabelSize": 20
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxEdgeSize": 3,
+      "minEdgeSize": 0.5,
+      "minNodeSize": 0.5,
+      "maxNodeSize": 30
     },
     "mouseProperties": {
       "maxRatio": 20,
