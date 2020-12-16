@@ -1,0 +1,1574 @@
+Tapaus_ID;Role_ID;Role_name;Person_ID;Normalisoitu;Pääluokka;Alaluokka
+3;1;Kantaja/Asianomistaja;400;Henrich Huttunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+3;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+3;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+3;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+3;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+3;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+3;3;Selvitysmies;1322;Jöns Kärkkäinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+3;2;Vastaaja/Syytetty;421;Lars Huttunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+4;1;Kantaja/Asianomistaja;3088;Henrich Henrichsson Tikkanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+4;3;Selvitysmies;1572;Pehr Larsson;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+4;3;Selvitysmies;3090;Henrich Tikkanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+4;3;Selvitysmies;871;Mats Larsson Kauppinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+4;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+4;2;Vastaaja/Syytetty;1582;Johan Olofsson Launonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+5;1;Kantaja/Asianomistaja;2539;Jöns Remes;Varkausrikokset;Omavaltainen pantti
+5;5;Muu;496;Kauppi Staphansson Hyvärinen;Varkausrikokset;Omavaltainen pantti
+5;4;Todistaja;1349;Pehr Kärkkäinen;Varkausrikokset;Omavaltainen pantti
+5;2;Vastaaja/Syytetty;498;Mats Hyvärinen;Varkausrikokset;Omavaltainen pantti
+6;1;Kantaja/Asianomistaja;498;Mats Hyvärinen;Varkausrikokset;Omavaltainen pantti
+6;2;Vastaaja/Syytetty;2539;Jöns Remes;Varkausrikokset;Omavaltainen pantti
+7;3;Selvitysmies;455;Bertil Matsson Hynninen;Hallinto- ja ilmoitusasiat;Katselmukset, tarkastutkset, hakemukset ja anomukset
+7;3;Selvitysmies;2638;Pehr Ruotsalainen;Hallinto- ja ilmoitusasiat;Katselmukset, tarkastutkset, hakemukset ja anomukset
+7;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Hallinto- ja ilmoitusasiat;Katselmukset, tarkastutkset, hakemukset ja anomukset
+7;3;Selvitysmies;2723;Henrich Ryynänen;Hallinto- ja ilmoitusasiat;Katselmukset, tarkastutkset, hakemukset ja anomukset
+8;1;Kantaja/Asianomistaja;1913;Lars Nilsson;Vahingonkorvaukset;Muut vahingonkorvaukset
+8;4;Todistaja;3090;Henrich Tikkanen;Vahingonkorvaukset;Muut vahingonkorvaukset
+8;2;Vastaaja/Syytetty;1466;Lars Henrichsson Lappalainen;Vahingonkorvaukset;Muut vahingonkorvaukset
+9;1;Kantaja/Asianomistaja;3385;Olof Påhlsson Kolehmainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+9;5;Muu;163;Erik Gyllenstierna;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+9;3;Selvitysmies;2203;Jöns Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+9;3;Selvitysmies;3090;Henrich Tikkanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+9;2;Vastaaja/Syytetty;1072;Påhl Påhlsson Kolehmainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+10;1;Kantaja/Asianomistaja;786;Anders Kaplan;Vahingonkorvaukset;Muut vahingonkorvaukset
+10;2;Vastaaja/Syytetty;3122;Pehr Tikkanen;Vahingonkorvaukset;Muut vahingonkorvaukset
+11;1;Kantaja/Asianomistaja;461;Henrich Matsson Hynninen;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+11;2;Vastaaja/Syytetty;1715;Grels Malinen;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+12;1;Kantaja/Asianomistaja;1943;Joseph Niskanen;Vahingonkorvaukset;Muut vahingonkorvaukset
+12;2;Vastaaja/Syytetty;3167;Lars Tossavainen;Vahingonkorvaukset;Muut vahingonkorvaukset
+13;2;Vastaaja/Syytetty;2182;Henrich Ivarsson Partanen;Haasteen laiminlyönti;Poissaolo käräjiltä
+32;1;Kantaja/Asianomistaja;1028;Lars Henrichsson Kokkarinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+32;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+32;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+32;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+32;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+32;2;Vastaaja/Syytetty;1026;Erik Olofsson Kokkarinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+33;1;Kantaja/Asianomistaja;334;Mårten Hiltunen;Vahingonkorvaukset;Muut vahingonkorvaukset
+33;2;Vastaaja/Syytetty;319;Clemet Hiltunen;Vahingonkorvaukset;Muut vahingonkorvaukset
+34;5;Muu;2638;Pehr Ruotsalainen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+34;5;Muu;134;August Eskilsson;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+34;6;Syyttäjä;2309;Lars Pehrsson;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+34;2;Vastaaja/Syytetty;640;Eskil Olofsson Jääskeläinen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+34;2;Vastaaja/Syytetty;2608;Elin Larsdotter Ruotsalainen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+35;1;Kantaja/Asianomistaja;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+35;2;Vastaaja/Syytetty;2150;Partalaboar;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+35;2;Vastaaja/Syytetty;1086;Mats Pehrsson Koljonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+36;2;Vastaaja/Syytetty;871;Mats Larsson Kauppinen;Muut rikokset;Käräjämoite/käräjäjuopumus
+37;1;Kantaja/Asianomistaja;2154;Anders Johansson Partanen;Perintö;Syytinkisopimus/Pojaksiotto
+38;1;Kantaja/Asianomistaja;3090;Henrich Tikkanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+38;5;Muu;144;Zacharias Fikz;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+38;2;Vastaaja/Syytetty;245;Brita Nilsdotter Heilanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+39;1;Kantaja/Asianomistaja;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+39;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+39;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+39;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+39;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+39;3;Selvitysmies;2028;Olof Nousiainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+39;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+39;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+39;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+39;3;Selvitysmies;2855;Lars Sigfredsson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+39;3;Selvitysmies;2309;Lars Pehrsson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+39;2;Vastaaja/Syytetty;421;Lars Huttunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+40;1;Kantaja/Asianomistaja;1862;Henrich Mäkeläinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+40;3;Selvitysmies;3090;Henrich Tikkanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+40;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+40;2;Vastaaja/Syytetty;1255;Mats Matsson Kähkönen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+40;2;Vastaaja/Syytetty;2539;Jöns Remes;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+41;1;Kantaja/Asianomistaja;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+41;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+41;3;Selvitysmies;2267;Påhl Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+41;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+41;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+41;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+41;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+41;2;Vastaaja/Syytetty;334;Mårten Hiltunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+42;1;Kantaja/Asianomistaja;1424;Anna Olofsdotter Lappalainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+42;3;Selvitysmies;248;Bertil Heinonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+42;3;Selvitysmies;46;Anders Auvinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+42;3;Selvitysmies;871;Mats Larsson Kauppinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+42;3;Selvitysmies;1196;Hans Kurvinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+42;2;Vastaaja/Syytetty;686;Kaarakkalaboar;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+43;1;Kantaja/Asianomistaja;2580;Nils Roivas;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+43;5;Muu;2866;Anders Simonis;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+43;2;Vastaaja/Syytetty;1074;Koljolaboar;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+43;2;Vastaaja/Syytetty;686;Kaarakkalaboar;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+44;1;Kantaja/Asianomistaja;2823;Lars Sairanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+44;3;Selvitysmies;26;Pehr Andersson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+44;3;Selvitysmies;2855;Lars Sigfredsson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+44;3;Selvitysmies;1285;Mats Kämäräinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+44;3;Selvitysmies;3090;Henrich Tikkanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+44;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+44;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+44;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+44;3;Selvitysmies;1486;Olof Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+44;2;Vastaaja/Syytetty;2028;Olof Nousiainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+45;2;Vastaaja/Syytetty;1468;Lars Larsson Lappalainen;Haasteen laiminlyönti;Poissaolo käräjiltä
+48;1;Kantaja/Asianomistaja;2058;Henrich Ollikainen;Vahingonkorvaukset;Kotieläinten vahingot
+48;4;Todistaja;455;Bertil Matsson Hynninen;Vahingonkorvaukset;Kotieläinten vahingot
+48;4;Todistaja;3235;Mats Tårpkuna;Vahingonkorvaukset;Kotieläinten vahingot
+48;4;Todistaja;2926;Henrich Sorpainen;Vahingonkorvaukset;Kotieläinten vahingot
+48;2;Vastaaja/Syytetty;1771;Pehr Martikainen;Vahingonkorvaukset;Kotieläinten vahingot
+49;3;Selvitysmies;455;Bertil Matsson Hynninen;Verorästit;Alaluokka_Verorästit
+49;3;Selvitysmies;871;Mats Larsson Kauppinen;Verorästit;Alaluokka_Verorästit
+49;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Verorästit;Alaluokka_Verorästit
+49;3;Selvitysmies;2723;Henrich Ryynänen;Verorästit;Alaluokka_Verorästit
+49;2;Vastaaja/Syytetty;2322;Anders Pehrsson Peltonen;Verorästit;Alaluokka_Verorästit
+50;1;Kantaja/Asianomistaja;1760;Lars Martikainen;Velat ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+50;1;Kantaja/Asianomistaja;2316;Mats Pekkarinen;Velat ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+50;2;Vastaaja/Syytetty;46;Anders Auvinen;Velat ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+51;1;Kantaja/Asianomistaja;2580;Nils Roivas;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+51;1;Kantaja/Asianomistaja;163;Erik Gyllenstierna;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+51;2;Vastaaja/Syytetty;1572;Pehr Larsson;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+52;1;Kantaja/Asianomistaja;1416;Alfred Henrichsson Lappalainen;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+52;5;Muu;1485;Olof Henrichsson Lappalainen;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+52;5;Muu;2542;Lars Remes;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+52;2;Vastaaja/Syytetty;2281;Visa Michelsson Partanen;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+52;2;Vastaaja/Syytetty;2236;Michel Michelsson Partanen;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+53;1;Kantaja/Asianomistaja;3090;Henrich Tikkanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+53;4;Todistaja;493;Jacob Staphansson Hyvärinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+53;4;Todistaja;2184;Henrich Partanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+53;4;Todistaja;3387;Pehr Kärkkäisen vaimo;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+53;2;Vastaaja/Syytetty;586;Erik Jespersson;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+53;2;Vastaaja/Syytetty;3386;Fänrik Löfdring;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+54;1;Kantaja/Asianomistaja;2444;Zacharias Pyk;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+54;3;Selvitysmies;2474;Lars Pehrsson Pölhö;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+54;3;Selvitysmies;2312;Ture Pehrsson;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+58;1;Kantaja/Asianomistaja;3090;Henrich Tikkanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+58;1;Kantaja/Asianomistaja;2229;Lauri Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+58;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+58;3;Selvitysmies;2028;Olof Nousiainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+58;3;Selvitysmies;2203;Jöns Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+59;1;Kantaja/Asianomistaja;441;Pehr Andersson Huttunen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+59;5;Muu;1411;Joseph Laja;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+59;2;Vastaaja/Syytetty;2663;Pehr Olofsson Ryhänen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+60;1;Kantaja/Asianomistaja;461;Henrich Matsson Hynninen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+60;2;Vastaaja/Syytetty;2095;Pehr Ollikainen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+60;2;Vastaaja/Syytetty;2058;Henrich Ollikainen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+61;1;Kantaja/Asianomistaja;2513;Karin Andersdotter Rautapartanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+61;5;Muu;552;Michel Pehrsson Ikonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+61;4;Todistaja;1747;Jacob Pehrsson Martikainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+61;4;Todistaja;2510;Johan Karlsson Rautapartanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+61;2;Vastaaja/Syytetty;1474;Margareta Hansdotter Lappalainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+61;2;Vastaaja/Syytetty;2255;Pehr Partanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+62;1;Kantaja/Asianomistaja;468;Mats Hynninen;Vahingonkorvaukset;Vahingossa syntyneet tulipalot
+62;1;Kantaja/Asianomistaja;455;Bertil Matsson Hynninen;Vahingonkorvaukset;Vahingossa syntyneet tulipalot
+62;1;Kantaja/Asianomistaja;258;Anders Heiskanen;Vahingonkorvaukset;Vahingossa syntyneet tulipalot
+62;3;Selvitysmies;871;Mats Larsson Kauppinen;Vahingonkorvaukset;Vahingossa syntyneet tulipalot
+62;3;Selvitysmies;1210;Hans Kurvonen;Vahingonkorvaukset;Vahingossa syntyneet tulipalot
+62;2;Vastaaja/Syytetty;2981;Olof Olofsson Sutinen;Vahingonkorvaukset;Vahingossa syntyneet tulipalot
+63;1;Kantaja/Asianomistaja;2510;Johan Karlsson Rautapartanen;Maanhallinta ja nautinta;Muu hallinta ja nautinta
+63;2;Vastaaja/Syytetty;2155;Anders Jönsson Partanen;Maanhallinta ja nautinta;Muu hallinta ja nautinta
+64;5;Muu;786;Anders Kaplan;Muut rikokset;Käräjämoite/käräjäjuopumus
+64;2;Vastaaja/Syytetty;2688;Henrich Rytkönen;Muut rikokset;Käräjämoite/käräjäjuopumus
+65;1;Kantaja/Asianomistaja;786;Anders Kaplan;Maanhallinta ja nautinta;Muu hallinta ja nautinta
+65;2;Vastaaja/Syytetty;2688;Henrich Rytkönen;Maanhallinta ja nautinta;Muu hallinta ja nautinta
+66;2;Vastaaja/Syytetty;1196;Hans Kurvinen;Yleisten velvollisuuksien laiminlyönti;Katselmuksen ja ulosmittauksen laiminlyönti
+67;1;Kantaja/Asianomistaja;2156;Anders Jöransson Partanen;Hallinto- ja ilmoitusasiat;Verotus
+67;1;Kantaja/Asianomistaja;2497;Påhl Raatikainen;Hallinto- ja ilmoitusasiat;Verotus
+67;1;Kantaja/Asianomistaja;117;Erik Ervinen;Hallinto- ja ilmoitusasiat;Verotus
+68;1;Kantaja/Asianomistaja;1468;Lars Larsson Lappalainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+68;5;Muu;805;Olof Karjalainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+68;2;Vastaaja/Syytetty;122;Karin Larsdotter Eskelinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+69;2;Vastaaja/Syytetty;2393;Henrich Pitkänen;Muut rikokset;Käräjämoite/käräjäjuopumus
+70;2;Vastaaja/Syytetty;2393;Henrich Pitkänen;Yleisten velvollisuuksien laiminlyönti;Siltojen ja teiden kunnossapito
+71;2;Vastaaja/Syytetty;2824;Mats Sairanen;Haasteen laiminlyönti;Poissaolo käräjiltä
+1915;3;Selvitysmies;455;Bertil Matsson Hynninen;Verorästit;Alaluokka_Verorästit
+1915;3;Selvitysmies;871;Mats Larsson Kauppinen;Verorästit;Alaluokka_Verorästit
+1915;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Verorästit;Alaluokka_Verorästit
+1915;3;Selvitysmies;2723;Henrich Ryynänen;Verorästit;Alaluokka_Verorästit
+1915;2;Vastaaja/Syytetty;2752;Anders Rönkkö;Verorästit;Alaluokka_Verorästit
+1915;2;Vastaaja/Syytetty;2089;Marcus Andersson Ollikainen;Verorästit;Alaluokka_Verorästit
+1916;3;Selvitysmies;455;Bertil Matsson Hynninen;Verorästit;Alaluokka_Verorästit
+1916;3;Selvitysmies;871;Mats Larsson Kauppinen;Verorästit;Alaluokka_Verorästit
+1916;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Verorästit;Alaluokka_Verorästit
+1916;3;Selvitysmies;2723;Henrich Ryynänen;Verorästit;Alaluokka_Verorästit
+1916;2;Vastaaja/Syytetty;2089;Marcus Andersson Ollikainen;Verorästit;Alaluokka_Verorästit
+1917;3;Selvitysmies;455;Bertil Matsson Hynninen;Verorästit;Alaluokka_Verorästit
+1917;3;Selvitysmies;871;Mats Larsson Kauppinen;Verorästit;Alaluokka_Verorästit
+1917;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Verorästit;Alaluokka_Verorästit
+1917;3;Selvitysmies;2723;Henrich Ryynänen;Verorästit;Alaluokka_Verorästit
+1917;2;Vastaaja/Syytetty;1197;Henrich Kurvinen;Verorästit;Alaluokka_Verorästit
+1918;3;Selvitysmies;455;Bertil Matsson Hynninen;Verorästit;Alaluokka_Verorästit
+1918;3;Selvitysmies;871;Mats Larsson Kauppinen;Verorästit;Alaluokka_Verorästit
+1918;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Verorästit;Alaluokka_Verorästit
+1918;3;Selvitysmies;2723;Henrich Ryynänen;Verorästit;Alaluokka_Verorästit
+1918;2;Vastaaja/Syytetty;1182;Pehr Pehrsson Kuosmanen;Verorästit;Alaluokka_Verorästit
+1920;3;Selvitysmies;455;Bertil Matsson Hynninen;Verorästit;Alaluokka_Verorästit
+1920;3;Selvitysmies;871;Mats Larsson Kauppinen;Verorästit;Alaluokka_Verorästit
+1920;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Verorästit;Alaluokka_Verorästit
+1920;3;Selvitysmies;2723;Henrich Ryynänen;Verorästit;Alaluokka_Verorästit
+1920;2;Vastaaja/Syytetty;1182;Pehr Pehrsson Kuosmanen;Verorästit;Alaluokka_Verorästit
+1921;2;Vastaaja/Syytetty;955;Olof Kettunen;Yleisten velvollisuuksien laiminlyönti;Katselmuksen ja ulosmittauksen laiminlyönti
+1922;2;Vastaaja/Syytetty;2538;Jöns Jönsson Remes;Yleisten velvollisuuksien laiminlyönti;Siltojen ja teiden kunnossapito
+1923;2;Vastaaja/Syytetty;2544;Mats Andersson Remes;Yleisten velvollisuuksien laiminlyönti;Siltojen ja teiden kunnossapito
+1924;2;Vastaaja/Syytetty;1433;Erik Lappalainen;Yleisten velvollisuuksien laiminlyönti;Siltojen ja teiden kunnossapito
+1925;2;Vastaaja/Syytetty;2267;Påhl Partanen;Yleisten velvollisuuksien laiminlyönti;Siltojen ja teiden kunnossapito
+1926;2;Vastaaja/Syytetty;509;Pehr Hyvärinen;Yleisten velvollisuuksien laiminlyönti;Siltojen ja teiden kunnossapito
+1927;2;Vastaaja/Syytetty;2553;Visa Renkonen;Yleisten velvollisuuksien laiminlyönti;Siltojen ja teiden kunnossapito
+1928;2;Vastaaja/Syytetty;3255;Nils Ulmanen;Yleisten velvollisuuksien laiminlyönti;Siltojen ja teiden kunnossapito
+1929;2;Vastaaja/Syytetty;3347;Påhl Väisänen;Yleisten velvollisuuksien laiminlyönti;Siltojen ja teiden kunnossapito
+1930;2;Vastaaja/Syytetty;2195;Johan Karlsson Partanen;Yleisten velvollisuuksien laiminlyönti;Siltojen ja teiden kunnossapito
+1931;2;Vastaaja/Syytetty;668;Anders Jönsson Kaarakainen;Yleisten velvollisuuksien laiminlyönti;Siltojen ja teiden kunnossapito
+1932;2;Vastaaja/Syytetty;2363;Henrich Pielikäinen;Yleisten velvollisuuksien laiminlyönti;Siltojen ja teiden kunnossapito
+1933;2;Vastaaja/Syytetty;504;Olof Hyvärinen;Yleisten velvollisuuksien laiminlyönti;Siltojen ja teiden kunnossapito
+1934;2;Vastaaja/Syytetty;1121;Sigfred Koponen;Yleisten velvollisuuksien laiminlyönti;Siltojen ja teiden kunnossapito
+1938;1;Kantaja/Asianomistaja;2474;Lars Pehrsson Pölhö;Verorästit;Alaluokka_Verorästit
+1938;5;Muu;2599;Anders Pehrsson Ruotsalainen;Verorästit;Alaluokka_Verorästit
+1938;4;Todistaja;2631;Nils Pehrsson Ruotsalainen;Verorästit;Alaluokka_Verorästit
+1938;4;Todistaja;3090;Henrich Tikkanen;Verorästit;Alaluokka_Verorästit
+1938;4;Todistaja;2028;Olof Nousiainen;Verorästit;Alaluokka_Verorästit
+1938;4;Todistaja;553;Pehr Ikonen;Verorästit;Alaluokka_Verorästit
+1938;2;Vastaaja/Syytetty;1445;Henrich Lappalainen;Verorästit;Alaluokka_Verorästit
+1939;1;Kantaja/Asianomistaja;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1939;3;Selvitysmies;2474;Lars Pehrsson Pölhö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1939;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1939;3;Selvitysmies;1790;Henrich Matsson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1939;3;Selvitysmies;2632;Nils Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1939;3;Selvitysmies;2028;Olof Nousiainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1939;3;Selvitysmies;3090;Henrich Tikkanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1939;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1939;3;Selvitysmies;906;Jöns Kenkö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1939;3;Selvitysmies;1086;Mats Pehrsson Koljonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1939;3;Selvitysmies;1201;Jöns Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1939;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1939;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1939;3;Selvitysmies;2751;Anders Larsson Rönkkö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1939;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1939;2;Vastaaja/Syytetty;384;Huttulaboar;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1940;1;Kantaja/Asianomistaja;455;Bertil Matsson Hynninen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1940;3;Selvitysmies;871;Mats Larsson Kauppinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1940;3;Selvitysmies;3090;Henrich Tikkanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1940;3;Selvitysmies;2030;Påhl Nousiainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1940;2;Vastaaja/Syytetty;668;Anders Jönsson Kaarakainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1941;2;Vastaaja/Syytetty;951;Mats Olofsson Kettunen;Haasteen laiminlyönti;Poissaolo käräjiltä
+1942;2;Vastaaja/Syytetty;967;Påhl Larsson Kettunen;Haasteen laiminlyönti;Poissaolo käräjiltä
+1943;2;Vastaaja/Syytetty;2216;Karl Partanen;Haasteen laiminlyönti;Poissaolo käräjiltä
+1944;2;Vastaaja/Syytetty;1652;Lars Lukkarinen;Haasteen laiminlyönti;Poissaolo käräjiltä
+1948;1;Kantaja/Asianomistaja;1512;Anders Pehrsson Lapveteläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1948;5;Muu;163;Erik Gyllenstierna;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1948;3;Selvitysmies;2474;Lars Pehrsson Pölhö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1948;2;Vastaaja/Syytetty;2389;Michel Pikkarainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1949;1;Kantaja/Asianomistaja;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1949;2;Vastaaja/Syytetty;384;Huttulaboar;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1950;1;Kantaja/Asianomistaja;2529;Olof Reijanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1950;3;Selvitysmies;3193;Bertil Tuovinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1950;3;Selvitysmies;177;Jöran Hakkarainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1950;3;Selvitysmies;2567;Thomas Rissanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1950;3;Selvitysmies;2632;Nils Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1950;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1950;3;Selvitysmies;3246;Eskil Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1950;2;Vastaaja/Syytetty;1787;Olof Matilainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1951;1;Kantaja/Asianomistaja;2892;Pehr Sihvonen;Väkivalta;Pahoinpitely
+1951;5;Muu;1751;Johan Pehrsson Martikainen;Väkivalta;Pahoinpitely
+1951;5;Muu;2298;Anna Pehrsdotter Makkonen;Väkivalta;Pahoinpitely
+1951;5;Muu;159;Brita Grelsdotter;Väkivalta;Pahoinpitely
+1951;4;Todistaja;2970;Anders Pehrsson Sutinen;Väkivalta;Pahoinpitely
+1951;2;Vastaaja/Syytetty;1773;Pehr Pehrsson Martikainen;Väkivalta;Pahoinpitely
+1952;1;Kantaja/Asianomistaja;3267;Anders Olofsson Utriainen;Varkausrikokset;Ryöstö, varkaus, näpistys
+1952;5;Muu;3278;Nils Andersson Utriainen;Varkausrikokset;Ryöstö, varkaus, näpistys
+1952;4;Todistaja;668;Anders Jönsson Kaarakainen;Varkausrikokset;Ryöstö, varkaus, näpistys
+1952;4;Todistaja;2709;Pehr Rytkönen;Varkausrikokset;Ryöstö, varkaus, näpistys
+1952;4;Todistaja;2631;Nils Pehrsson Ruotsalainen;Varkausrikokset;Ryöstö, varkaus, näpistys
+1952;4;Todistaja;2708;Pehr Påhlsson Rytkönen;Varkausrikokset;Ryöstö, varkaus, näpistys
+1952;2;Vastaaja/Syytetty;3381;Zacharias Zachariasson;Varkausrikokset;Ryöstö, varkaus, näpistys
+1952;2;Vastaaja/Syytetty;2474;Lars Pehrsson Pölhö;Varkausrikokset;Ryöstö, varkaus, näpistys
+1953;1;Kantaja/Asianomistaja;289;Malin Henrichsdotter;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1953;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1953;3;Selvitysmies;2028;Olof Nousiainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1953;2;Vastaaja/Syytetty;3269;Bertil Utriainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1954;1;Kantaja/Asianomistaja;832;Henrich Matsson Kasurinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1954;2;Vastaaja/Syytetty;557;Mårten Immonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1955;5;Muu;2731;Olof Ryynänen;Väkivalta;Lapsenmurha
+1955;5;Muu;2716;Bertil Ryynänen;Väkivalta;Lapsenmurha
+1955;3;Selvitysmies;871;Mats Larsson Kauppinen;Väkivalta;Lapsenmurha
+1955;3;Selvitysmies;2723;Henrich Ryynänen;Väkivalta;Lapsenmurha
+1955;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Väkivalta;Lapsenmurha
+1955;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Väkivalta;Lapsenmurha
+1955;3;Selvitysmies;2751;Anders Larsson Rönkkö;Väkivalta;Lapsenmurha
+1955;6;Syyttäjä;2631;Nils Pehrsson Ruotsalainen;Väkivalta;Lapsenmurha
+1955;4;Todistaja;2115;Margareta Olofsdotter;Väkivalta;Lapsenmurha
+1955;4;Todistaja;1759;Kirstin Påhlsdotter Martikainen;Väkivalta;Lapsenmurha
+1955;4;Todistaja;95;Margareta Larsdotter Lappalainen;Väkivalta;Lapsenmurha
+1955;4;Todistaja;2949;Helga Jönsdotter Suhonen;Väkivalta;Lapsenmurha
+1955;2;Vastaaja/Syytetty;1534;Karin Pehrsdotter Lapveteläinen;Väkivalta;Lapsenmurha
+1955;2;Vastaaja/Syytetty;128;Pehr Eskelinen;Väkivalta;Lapsenmurha
+1956;5;Muu;2731;Olof Ryynänen;Seksuaalirikokset;Salavuoteus
+1956;5;Muu;2716;Bertil Ryynänen;Seksuaalirikokset;Salavuoteus
+1956;3;Selvitysmies;871;Mats Larsson Kauppinen;Seksuaalirikokset;Salavuoteus
+1956;3;Selvitysmies;2723;Henrich Ryynänen;Seksuaalirikokset;Salavuoteus
+1956;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Seksuaalirikokset;Salavuoteus
+1956;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Seksuaalirikokset;Salavuoteus
+1956;3;Selvitysmies;2751;Anders Larsson Rönkkö;Seksuaalirikokset;Salavuoteus
+1956;6;Syyttäjä;2631;Nils Pehrsson Ruotsalainen;Seksuaalirikokset;Salavuoteus
+1956;4;Todistaja;2115;Margareta Olofsdotter;Seksuaalirikokset;Salavuoteus
+1956;4;Todistaja;1759;Kirstin Påhlsdotter Martikainen;Seksuaalirikokset;Salavuoteus
+1956;4;Todistaja;95;Margareta Larsdotter Lappalainen;Seksuaalirikokset;Salavuoteus
+1956;4;Todistaja;2949;Helga Jönsdotter Suhonen;Seksuaalirikokset;Salavuoteus
+1956;2;Vastaaja/Syytetty;1534;Karin Pehrsdotter Lapveteläinen;Seksuaalirikokset;Salavuoteus
+1956;2;Vastaaja/Syytetty;128;Pehr Eskelinen;Seksuaalirikokset;Salavuoteus
+1961;1;Kantaja/Asianomistaja;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1961;2;Vastaaja/Syytetty;421;Lars Huttunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1961;2;Vastaaja/Syytetty;400;Henrich Huttunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1961;2;Vastaaja/Syytetty;2580;Nils Roivas;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1962;1;Kantaja/Asianomistaja;586;Erik Jespersson;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1962;1;Kantaja/Asianomistaja;3388;Pehr Tijle;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1965;1;Kantaja/Asianomistaja;225;Anders Hara;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+1965;5;Muu;2131;Åke Oxenstierna;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+1965;5;Muu;71;Pehr Brahe;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+1965;4;Todistaja;1879;Abraham Jöransson Nicolaus;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+1965;2;Vastaaja/Syytetty;2497;Påhl Raatikainen;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+1966;1;Kantaja/Asianomistaja;1066;Magdalena Henrichsdotter;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1966;2;Vastaaja/Syytetty;460;Henrich Hynninen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1970;1;Kantaja/Asianomistaja;798;Pehr Karhunen;Vahingonkorvaukset;Muut vahingonkorvaukset
+1970;2;Vastaaja/Syytetty;2058;Henrich Ollikainen;Vahingonkorvaukset;Muut vahingonkorvaukset
+1970;2;Vastaaja/Syytetty;2578;Christer Nilsson Roivas;Vahingonkorvaukset;Muut vahingonkorvaukset
+1971;1;Kantaja/Asianomistaja;577;Grels Jauhiainen;Vahingonkorvaukset;Muut vahingonkorvaukset
+1971;2;Vastaaja/Syytetty;1933;Isak Påhlsson Niskanen;Vahingonkorvaukset;Muut vahingonkorvaukset
+1972;1;Kantaja/Asianomistaja;1933;Isak Påhlsson Niskanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1972;2;Vastaaja/Syytetty;577;Grels Jauhiainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1973;1;Kantaja/Asianomistaja;2971;Anders Sutinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1974;1;Kantaja/Asianomistaja;46;Anders Auvinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1974;5;Muu;2144;Bengt Parkkinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1974;2;Vastaaja/Syytetty;1467;Lars Lappalainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1975;1;Kantaja/Asianomistaja;386;Anders Eriksson Huttunen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1975;4;Todistaja;443;Pehr Larsson Huttunen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1975;4;Todistaja;2751;Anders Larsson Rönkkö;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1975;2;Vastaaja/Syytetty;960;Pehr Larsson Kettunen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1976;1;Kantaja/Asianomistaja;2983;Pehr Larsson Sutinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1976;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1976;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1976;2;Vastaaja/Syytetty;2448;Anders Pyllkäs;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1977;1;Kantaja/Asianomistaja;1352;Pehr Pehrsson Kärkkäinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1977;5;Muu;3381;Zacharias Zachariasson;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1977;2;Vastaaja/Syytetty;668;Anders Jönsson Kaarakainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1978;1;Kantaja/Asianomistaja;775;Lars Hansson Kapanen hustru;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+1978;2;Vastaaja/Syytetty;1549;Påhl Enevaldsson Lapveteläinen;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+1979;1;Kantaja/Asianomistaja;1884;Anders Niirainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1979;5;Muu;1854;Olof Mårtensson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1979;5;Muu;620;Lars Juntunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1979;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1979;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1979;2;Vastaaja/Syytetty;616;Henrich Olofsson Juntunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1980;1;Kantaja/Asianomistaja;958;Pehr Andersson Kettunen;Vahingonkorvaukset;Vahingossa syntyneet tulipalot
+1980;2;Vastaaja/Syytetty;443;Pehr Larsson Huttunen;Vahingonkorvaukset;Vahingossa syntyneet tulipalot
+1981;1;Kantaja/Asianomistaja;1306;Anders Kärkkäinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1981;2;Vastaaja/Syytetty;2651;Anders Ryhänen leski;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1982;1;Kantaja/Asianomistaja;2203;Jöns Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1982;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1982;3;Selvitysmies;1162;Visa Kumpulainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1982;2;Vastaaja/Syytetty;1162;Visa Kumpulainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1983;5;Muu;163;Erik Gyllenstierna;Verorästit;Alaluokka_Verorästit
+1983;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Verorästit;Alaluokka_Verorästit
+1983;3;Selvitysmies;871;Mats Larsson Kauppinen;Verorästit;Alaluokka_Verorästit
+1983;2;Vastaaja/Syytetty;2751;Anders Larsson Rönkkö;Verorästit;Alaluokka_Verorästit
+1984;1;Kantaja/Asianomistaja;363;Henrich Hovinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1984;2;Vastaaja/Syytetty;455;Bertil Matsson Hynninen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1985;1;Kantaja/Asianomistaja;2580;Nils Roivas;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1985;3;Selvitysmies;591;Ivar Johansson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1985;3;Selvitysmies;607;Pehr Jukkanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1985;3;Selvitysmies;2141;Pehr Lipsa Palonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1985;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1985;3;Selvitysmies;2751;Anders Larsson Rönkkö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1985;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1985;3;Selvitysmies;1086;Mats Pehrsson Koljonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1985;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1985;2;Vastaaja/Syytetty;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1986;1;Kantaja/Asianomistaja;1522;Erik Lapveteläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1986;2;Vastaaja/Syytetty;1511;Anders Mårtensson Lapveteläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1987;1;Kantaja/Asianomistaja;1486;Olof Lappalainen;Vahingonkorvaukset;Muut vahingonkorvaukset
+1987;2;Vastaaja/Syytetty;1467;Lars Lappalainen;Vahingonkorvaukset;Muut vahingonkorvaukset
+1987;2;Vastaaja/Syytetty;1481;Mårten Henrichsson Lappalainen;Vahingonkorvaukset;Muut vahingonkorvaukset
+1987;2;Vastaaja/Syytetty;3008;Bertil Tapaninen;Vahingonkorvaukset;Muut vahingonkorvaukset
+1987;2;Vastaaja/Syytetty;1897;Pehr Niirainen;Vahingonkorvaukset;Muut vahingonkorvaukset
+1987;2;Vastaaja/Syytetty;1445;Henrich Lappalainen;Vahingonkorvaukset;Muut vahingonkorvaukset
+1988;1;Kantaja/Asianomistaja;3113;Olof Andersson Tikkanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1988;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1988;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1988;3;Selvitysmies;2028;Olof Nousiainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1988;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1988;3;Selvitysmies;3093;Hintza Tikkanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1988;3;Selvitysmies;2306;Henrich Pehrsson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1988;3;Selvitysmies;2120;Isak Olofsson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+1989;1;Kantaja/Asianomistaja;417;Jöns Jacobsson Huttunen;Vahingonkorvaukset;Muut vahingonkorvaukset
+1989;2;Vastaaja/Syytetty;400;Henrich Huttunen;Vahingonkorvaukset;Muut vahingonkorvaukset
+1989;2;Vastaaja/Syytetty;425;Marcus Huttunen;Vahingonkorvaukset;Muut vahingonkorvaukset
+1990;1;Kantaja/Asianomistaja;2524;Beata Rautiainen;Perintö;Ilmoitus tai riita perinnöstä
+1990;2;Vastaaja/Syytetty;2246;Olof Michelsson Partanen;Perintö;Ilmoitus tai riita perinnöstä
+1991;1;Kantaja/Asianomistaja;1286;Mats Pehrsson Kämäräinen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+1991;3;Selvitysmies;1018;Knut Knutsson Bock;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+1991;4;Todistaja;509;Pehr Hyvärinen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+1991;4;Todistaja;1481;Mårten Henrichsson Lappalainen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+1991;2;Vastaaja/Syytetty;3074;Anders Tikkanen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+1991;2;Vastaaja/Syytetty;3014;Pehr Tapaninen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+1991;2;Vastaaja/Syytetty;3011;Henrich Tapaninen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+1992;1;Kantaja/Asianomistaja;509;Pehr Hyvärinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1992;2;Vastaaja/Syytetty;2448;Anders Pyllkäs;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1993;1;Kantaja/Asianomistaja;460;Henrich Hynninen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1993;2;Vastaaja/Syytetty;547;Lars Ikonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+1995;2;Vastaaja/Syytetty;455;Bertil Matsson Hynninen;Yleisten velvollisuuksien laiminlyönti;Lautamies poissa käräjiltä
+1995;2;Vastaaja/Syytetty;871;Mats Larsson Kauppinen;Yleisten velvollisuuksien laiminlyönti;Lautamies poissa käräjiltä
+1995;2;Vastaaja/Syytetty;3093;Hintza Tikkanen;Yleisten velvollisuuksien laiminlyönti;Lautamies poissa käräjiltä
+1995;2;Vastaaja/Syytetty;2203;Jöns Partanen;Yleisten velvollisuuksien laiminlyönti;Lautamies poissa käräjiltä
+1995;2;Vastaaja/Syytetty;2523;Påhl Jönssön Rautapartanen;Yleisten velvollisuuksien laiminlyönti;Lautamies poissa käräjiltä
+1995;2;Vastaaja/Syytetty;1196;Hans Kurvinen;Yleisten velvollisuuksien laiminlyönti;Lautamies poissa käräjiltä
+1996;2;Vastaaja/Syytetty;2631;Nils Pehrsson Ruotsalainen;Yleisten velvollisuuksien laiminlyönti;Muut velvollisuus rikkomukset
+1997;2;Vastaaja/Syytetty;455;Bertil Matsson Hynninen;Yleisten velvollisuuksien laiminlyönti;Muut velvollisuus rikkomukset
+2000;1;Kantaja/Asianomistaja;3363;Olof Påhlsson Väyrynen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2000;5;Muu;3278;Nils Andersson Utriainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2000;2;Vastaaja/Syytetty;3279;Nils Nilsson Utriainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2001;1;Kantaja/Asianomistaja;796;Olof Karhunen;Vahingonkorvaukset;Muut vahingonkorvaukset
+2001;4;Todistaja;1009;Staphan Kinnunen;Vahingonkorvaukset;Muut vahingonkorvaukset
+2001;2;Vastaaja/Syytetty;2050;Christer Ollikainen;Vahingonkorvaukset;Muut vahingonkorvaukset
+2001;2;Vastaaja/Syytetty;2578;Christer Nilsson Roivas;Vahingonkorvaukset;Muut vahingonkorvaukset
+2001;2;Vastaaja/Syytetty;2893;Påhl Pehrsson Sihvonen;Vahingonkorvaukset;Muut vahingonkorvaukset
+2002;1;Kantaja/Asianomistaja;476;Thomas Hyttinen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2002;2;Vastaaja/Syytetty;1760;Lars Martikainen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2002;2;Vastaaja/Syytetty;1772;Pehr Olofsson Martikainen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2003;1;Kantaja/Asianomistaja;1121;Sigfred Koponen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2003;4;Todistaja;2723;Henrich Ryynänen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2003;4;Todistaja;1183;Påhl Kuosmanen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2003;4;Todistaja;2638;Pehr Ruotsalainen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2003;2;Vastaaja/Syytetty;334;Mårten Hiltunen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2004;1;Kantaja/Asianomistaja;1535;Kirstin Lapveteläinen;Sotilaat;Kutsuntoihin ja sotilaaksiottoon liittyvät riidat
+2004;2;Vastaaja/Syytetty;225;Anders Hara;Sotilaat;Kutsuntoihin ja sotilaaksiottoon liittyvät riidat
+2005;1;Kantaja/Asianomistaja;372;Olof Hujanen;Verorästit;Alaluokka_Verorästit
+2005;5;Muu;1572;Pehr Larsson;Verorästit;Alaluokka_Verorästit
+2005;5;Muu;2156;Anders Jöransson Partanen;Verorästit;Alaluokka_Verorästit
+2005;2;Vastaaja/Syytetty;2723;Henrich Ryynänen;Verorästit;Alaluokka_Verorästit
+2006;1;Kantaja/Asianomistaja;1485;Olof Henrichsson Lappalainen;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+2006;2;Vastaaja/Syytetty;1289;Pehr Kämäräinen;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+2006;2;Vastaaja/Syytetty;768;Visa Jönsson Kankkunen;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+2006;2;Vastaaja/Syytetty;2238;Michel Partanen;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+2007;1;Kantaja/Asianomistaja;2267;Påhl Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2007;3;Selvitysmies;591;Ivar Johansson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2007;3;Selvitysmies;608;Pehr Julkunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2007;3;Selvitysmies;203;Pehr Halonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2007;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2007;3;Selvitysmies;2751;Anders Larsson Rönkkö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2007;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2007;2;Vastaaja/Syytetty;2578;Christer Nilsson Roivas;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2007;2;Vastaaja/Syytetty;608;Pehr Julkunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2008;2;Vastaaja/Syytetty;1286;Mats Pehrsson Kämäräinen;Muut rikokset;Käräjämoite/käräjäjuopumus
+2010;1;Kantaja/Asianomistaja;2059;Henrich Pehrsson Korpi Ollikainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2010;5;Muu;200;Olof Halonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2010;2;Vastaaja/Syytetty;1627;Pehr Lipsa Halonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2011;1;Kantaja/Asianomistaja;672;Henrich Kaarakainen;Velat, ulosmittaukset ja kaupankäynti;Kauppariita
+2011;2;Vastaaja/Syytetty;2282;Visa Partanen;Velat, ulosmittaukset ja kaupankäynti;Kauppariita
+2011;2;Vastaaja/Syytetty;2164;Asko Partanen;Velat, ulosmittaukset ja kaupankäynti;Kauppariita
+2012;1;Kantaja/Asianomistaja;1446;Henrich Larsson Lappalainen;Perintö;Pesänjako, erojako
+2012;3;Selvitysmies;871;Mats Larsson Kauppinen;Perintö;Pesänjako, erojako
+2012;3;Selvitysmies;3093;Hintza Tikkanen;Perintö;Pesänjako, erojako
+2012;3;Selvitysmies;677;Jöns Kaarakainen;Perintö;Pesänjako, erojako
+2012;2;Vastaaja/Syytetty;1477;Mats Lappalainen;Perintö;Pesänjako, erojako
+2012;2;Vastaaja/Syytetty;1469;Lars Matsson Lappalainen;Perintö;Pesänjako, erojako
+2013;1;Kantaja/Asianomistaja;2750;Anders Andersson Rönkkö;Haasteen laiminlyönti;Poissaolo käräjiltä
+2013;4;Todistaja;2751;Anders Larsson Rönkkö;Haasteen laiminlyönti;Poissaolo käräjiltä
+2013;4;Todistaja;455;Bertil Matsson Hynninen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2013;2;Vastaaja/Syytetty;385;Anders Andersson Huttunen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2014;1;Kantaja/Asianomistaja;952;Olof Andersson Kettunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2014;5;Muu;1285;Mats Kämäräinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2014;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2014;3;Selvitysmies;1086;Mats Pehrsson Koljonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2014;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2014;3;Selvitysmies;2164;Asko Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2014;3;Selvitysmies;1322;Jöns Kärkkäinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2014;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2014;3;Selvitysmies;2772;Visa Rönkkö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2014;3;Selvitysmies;1285;Mats Kämäräinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2014;3;Selvitysmies;1486;Olof Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2014;3;Selvitysmies;1886;Asko Niirainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2014;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2014;3;Selvitysmies;1481;Mårten Henrichsson Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2014;3;Selvitysmies;3093;Hintza Tikkanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2014;2;Vastaaja/Syytetty;2772;Visa Rönkkö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2015;1;Kantaja/Asianomistaja;952;Olof Andersson Kettunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2015;2;Vastaaja/Syytetty;1286;Mats Pehrsson Kämäräinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2016;1;Kantaja/Asianomistaja;3389;Visa Kärkkäinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2016;2;Vastaaja/Syytetty;2238;Michel Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2017;1;Kantaja/Asianomistaja;1520;Erik Andersson Lapveteläinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2017;2;Vastaaja/Syytetty;2580;Nils Roivas;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2018;1;Kantaja/Asianomistaja;2580;Nils Roivas;Haasteen laiminlyönti;Poissaolo käräjiltä
+2018;2;Vastaaja/Syytetty;670;Eskil Jönsson Kaarakainen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2019;1;Kantaja/Asianomistaja;443;Pehr Larsson Huttunen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2019;4;Todistaja;2751;Anders Larsson Rönkkö;Haasteen laiminlyönti;Poissaolo käräjiltä
+2019;2;Vastaaja/Syytetty;2479;Anders Pöllänen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2019;2;Vastaaja/Syytetty;2760;Lars Rönkkö;Haasteen laiminlyönti;Poissaolo käräjiltä
+2020;1;Kantaja/Asianomistaja;2028;Olof Nousiainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2020;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2020;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2020;3;Selvitysmies;2379;Henrich Pietikäinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2020;3;Selvitysmies;3093;Hintza Tikkanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2020;3;Selvitysmies;1486;Olof Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2020;3;Selvitysmies;1285;Mats Kämäräinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2020;2;Vastaaja/Syytetty;2824;Mats Sairanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2021;1;Kantaja/Asianomistaja;1771;Pehr Martikainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2021;2;Vastaaja/Syytetty;2002;Olof Nissinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2048;1;Kantaja/Asianomistaja;2750;Anders Andersson Rönkkö;Vahingonkorvaukset;Kotieläinten vahingot
+2048;4;Todistaja;436;Olof Huttunen;Vahingonkorvaukset;Kotieläinten vahingot
+2048;2;Vastaaja/Syytetty;388;Anders Huttunen;Vahingonkorvaukset;Kotieläinten vahingot
+2050;1;Kantaja/Asianomistaja;2028;Olof Nousiainen;Palkka- ja palkollisasiat;Maksamaton palkka
+2050;3;Selvitysmies;455;Bertil Matsson Hynninen;Palkka- ja palkollisasiat;Maksamaton palkka
+2050;3;Selvitysmies;1086;Mats Pehrsson Koljonen;Palkka- ja palkollisasiat;Maksamaton palkka
+2050;2;Vastaaja/Syytetty;3390;Anders Huttunen leski;Palkka- ja palkollisasiat;Maksamaton palkka
+2051;1;Kantaja/Asianomistaja;2490;Pehr Pöllänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2051;4;Todistaja;3251;Jöns Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2051;2;Vastaaja/Syytetty;2664;Pehr Ryhänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2052;1;Kantaja/Asianomistaja;1687;Eskil Makkonen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2052;4;Todistaja;871;Mats Larsson Kauppinen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2052;4;Todistaja;1196;Hans Kurvinen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2052;2;Vastaaja/Syytetty;955;Olof Kettunen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2053;1;Kantaja/Asianomistaja;2580;Nils Roivas;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2053;2;Vastaaja/Syytetty;955;Olof Kettunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2054;1;Kantaja/Asianomistaja;1535;Kirstin Lapveteläinen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2054;2;Vastaaja/Syytetty;2484;Jacob Pöllänen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2055;1;Kantaja/Asianomistaja;2824;Mats Sairanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2055;4;Todistaja;1285;Mats Kämäräinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2055;4;Todistaja;1486;Olof Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2055;4;Todistaja;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2055;4;Todistaja;3093;Hintza Tikkanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2055;4;Todistaja;2383;Nils Pietikäinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2055;2;Vastaaja/Syytetty;2028;Olof Nousiainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2056;1;Kantaja/Asianomistaja;1486;Olof Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2056;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2056;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2056;2;Vastaaja/Syytetty;1349;Pehr Kärkkäinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2057;1;Kantaja/Asianomistaja;510;Pehr Kauppisson Hyvärinen;Perintö;Ilmoitus tai riita perinnöstä
+2057;3;Selvitysmies;6;Willhelm Afleck;Perintö;Ilmoitus tai riita perinnöstä
+2057;2;Vastaaja/Syytetty;512;Pehr Pehrsson Hyvärinen;Perintö;Ilmoitus tai riita perinnöstä
+2058;1;Kantaja/Asianomistaja;510;Pehr Kauppisson Hyvärinen;Väkivalta;Pahoinpitely
+2058;3;Selvitysmies;6;Willhelm Afleck;Väkivalta;Pahoinpitely
+2058;2;Vastaaja/Syytetty;512;Pehr Pehrsson Hyvärinen;Väkivalta;Pahoinpitely
+2059;1;Kantaja/Asianomistaja;1538;Mats Andersson Lapveteläinen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2059;2;Vastaaja/Syytetty;2216;Karl Partanen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2060;1;Kantaja/Asianomistaja;1281;Jöns Kämäräinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2060;3;Selvitysmies;1486;Olof Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2060;3;Selvitysmies;866;Koski Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2060;2;Vastaaja/Syytetty;991;Pehr Kiiskinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2061;1;Kantaja/Asianomistaja;955;Olof Kettunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2061;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2061;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2061;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2061;3;Selvitysmies;3093;Hintza Tikkanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2061;3;Selvitysmies;1086;Mats Pehrsson Koljonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2061;3;Selvitysmies;2164;Asko Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2061;3;Selvitysmies;759;Jöns Kankkunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2061;3;Selvitysmies;1886;Asko Niirainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2061;3;Selvitysmies;1485;Olof Henrichsson Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2061;3;Selvitysmies;1286;Mats Pehrsson Kämäräinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2061;3;Selvitysmies;1481;Mårten Henrichsson Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2061;2;Vastaaja/Syytetty;2242;Nils Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2061;2;Vastaaja/Syytetty;2238;Michel Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2062;3;Selvitysmies;871;Mats Larsson Kauppinen;Muut rikokset;Tuomion rikkominen (3 m/käräjäkaari 39)
+2062;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Muut rikokset;Tuomion rikkominen (3 m/käräjäkaari 39)
+2062;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Muut rikokset;Tuomion rikkominen (3 m/käräjäkaari 39)
+2062;3;Selvitysmies;3093;Hintza Tikkanen;Muut rikokset;Tuomion rikkominen (3 m/käräjäkaari 39)
+2062;3;Selvitysmies;1086;Mats Pehrsson Koljonen;Muut rikokset;Tuomion rikkominen (3 m/käräjäkaari 39)
+2062;3;Selvitysmies;2164;Asko Partanen;Muut rikokset;Tuomion rikkominen (3 m/käräjäkaari 39)
+2062;3;Selvitysmies;759;Jöns Kankkunen;Muut rikokset;Tuomion rikkominen (3 m/käräjäkaari 39)
+2062;3;Selvitysmies;1886;Asko Niirainen;Muut rikokset;Tuomion rikkominen (3 m/käräjäkaari 39)
+2062;3;Selvitysmies;1485;Olof Henrichsson Lappalainen;Muut rikokset;Tuomion rikkominen (3 m/käräjäkaari 39)
+2062;3;Selvitysmies;1286;Mats Pehrsson Kämäräinen;Muut rikokset;Tuomion rikkominen (3 m/käräjäkaari 39)
+2062;3;Selvitysmies;1481;Mårten Henrichsson Lappalainen;Muut rikokset;Tuomion rikkominen (3 m/käräjäkaari 39)
+2063;1;Kantaja/Asianomistaja;455;Bertil Matsson Hynninen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2063;5;Muu;1221;Olof Kutvonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2063;2;Vastaaja/Syytetty;1983;Jöran Nissinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2064;1;Kantaja/Asianomistaja;439;Olof Olofsson Huttunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2064;2;Vastaaja/Syytetty;403;Henrich Larsson Huttunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2065;1;Kantaja/Asianomistaja;759;Jöns Kankkunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2065;5;Muu;879;Johan Kauranen (Haberman);Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2065;4;Todistaja;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2065;2;Vastaaja/Syytetty;1086;Mats Pehrsson Koljonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2066;1;Kantaja/Asianomistaja;1687;Eskil Makkonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2066;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2066;3;Selvitysmies;1285;Mats Kämäräinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2066;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2066;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2066;2;Vastaaja/Syytetty;2756;Jöns Rönkkö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2067;1;Kantaja/Asianomistaja;2185;Henrich Påhlsson Partanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2067;2;Vastaaja/Syytetty;3093;Hintza Tikkanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2068;1;Kantaja/Asianomistaja;2580;Nils Roivas;Varkausrikokset;Ryöstö, varkaus, näpistys
+2068;2;Vastaaja/Syytetty;670;Eskil Jönsson Kaarakainen;Varkausrikokset;Ryöstö, varkaus, näpistys
+2069;1;Kantaja/Asianomistaja;1380;Jöran Kääriäinen;Velat, ulosmittaukset ja kaupankäynti;Kauppariita
+2069;2;Vastaaja/Syytetty;3028;Anders Tenhunen;Velat, ulosmittaukset ja kaupankäynti;Kauppariita
+2070;1;Kantaja/Asianomistaja;2267;Påhl Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2070;2;Vastaaja/Syytetty;1467;Lars Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2072;1;Kantaja/Asianomistaja;2600;Anders Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2072;2;Vastaaja/Syytetty;1932;Isak Olofsson Niskanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2073;1;Kantaja/Asianomistaja;2580;Nils Roivas;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2073;5;Muu;2312;Ture Pehrsson;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2073;3;Selvitysmies;3381;Zacharias Zachariasson;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2073;2;Vastaaja/Syytetty;1086;Mats Pehrsson Koljonen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2074;1;Kantaja/Asianomistaja;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+2074;1;Kantaja/Asianomistaja;616;Henrich Olofsson Juntunen;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+2074;1;Kantaja/Asianomistaja;620;Lars Juntunen;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+2074;5;Muu;2730;Nils Ryynänen;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+2074;2;Vastaaja/Syytetty;677;Jöns Kaarakainen;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+2074;2;Vastaaja/Syytetty;670;Eskil Jönsson Kaarakainen;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+2075;1;Kantaja/Asianomistaja;1086;Mats Pehrsson Koljonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2075;2;Vastaaja/Syytetty;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2075;2;Vastaaja/Syytetty;611;Juntulaboar;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2075;2;Vastaaja/Syytetty;620;Lars Juntunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2076;1;Kantaja/Asianomistaja;1172;Johan Kuosmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2076;2;Vastaaja/Syytetty;1032;Olof Kokkarinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2076;2;Vastaaja/Syytetty;1640;Hemming Larsson Lukkarinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2077;1;Kantaja/Asianomistaja;1172;Johan Kuosmanen;Vahingonteot ja omavaltainen nautinta;Muut omavaltaisuudet
+2077;2;Vastaaja/Syytetty;1032;Olof Kokkarinen;Vahingonteot ja omavaltainen nautinta;Muut omavaltaisuudet
+2077;2;Vastaaja/Syytetty;1640;Hemming Larsson Lukkarinen;Vahingonteot ja omavaltainen nautinta;Muut omavaltaisuudet
+2078;1;Kantaja/Asianomistaja;441;Pehr Andersson Huttunen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2078;5;Muu;293;Henrich Henrichsson;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2078;2;Vastaaja/Syytetty;455;Bertil Matsson Hynninen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2079;3;Selvitysmies;3093;Hintza Tikkanen;Verorästit;Alaluokka_Verorästit
+2079;3;Selvitysmies;759;Jöns Kankkunen;Verorästit;Alaluokka_Verorästit
+2079;2;Vastaaja/Syytetty;1289;Pehr Kämäräinen;Verorästit;Alaluokka_Verorästit
+2079;2;Vastaaja/Syytetty;1390;Visa Kankkunen;Verorästit;Alaluokka_Verorästit
+2080;1;Kantaja/Asianomistaja;1377;Olof Kekkonen;Perintö;Ilmoitus tai riita perinnöstä
+2080;3;Selvitysmies;455;Bertil Matsson Hynninen;Perintö;Ilmoitus tai riita perinnöstä
+2080;3;Selvitysmies;871;Mats Larsson Kauppinen;Perintö;Ilmoitus tai riita perinnöstä
+2080;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Perintö;Ilmoitus tai riita perinnöstä
+2080;2;Vastaaja/Syytetty;706;Pehr Larsson Kekkonen;Perintö;Ilmoitus tai riita perinnöstä
+2081;1;Kantaja/Asianomistaja;206;Philip Halonen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2081;4;Todistaja;2709;Pehr Rytkönen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2081;2;Vastaaja/Syytetty;1627;Pehr Lipsa Halonen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2082;1;Kantaja/Asianomistaja;2619;Henrich Ruotsalainen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2082;2;Vastaaja/Syytetty;2216;Karl Partanen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2083;2;Vastaaja/Syytetty;1540;Mats Lapveteläinen;Yleisten velvollisuuksien laiminlyönti;Kyyditykset
+2084;2;Vastaaja/Syytetty;3269;Bertil Utriainen;Yleisten velvollisuuksien laiminlyönti;Kyyditykset
+2085;2;Vastaaja/Syytetty;1466;Lars Henrichsson Lappalainen;Verorästit;Alaluokka_Verorästit
+2086;1;Kantaja/Asianomistaja;225;Anders Hara;Hallinto- ja ilmoitusasiat;Katselmukset, tarkastutkset, hakemukset ja anomukset
+2086;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Hallinto- ja ilmoitusasiat;Katselmukset, tarkastutkset, hakemukset ja anomukset
+2086;3;Selvitysmies;2723;Henrich Ryynänen;Hallinto- ja ilmoitusasiat;Katselmukset, tarkastutkset, hakemukset ja anomukset
+2086;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Hallinto- ja ilmoitusasiat;Katselmukset, tarkastutkset, hakemukset ja anomukset
+2087;1;Kantaja/Asianomistaja;776;Lars Kapanen;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+2087;5;Muu;134;August Eskilsson;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+2087;2;Vastaaja/Syytetty;2751;Anders Larsson Rönkkö;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+2088;1;Kantaja/Asianomistaja;772;Henrich Hansson Kapanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2088;2;Vastaaja/Syytetty;1086;Mats Pehrsson Koljonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2089;1;Kantaja/Asianomistaja;3347;Påhl Väisänen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2089;5;Muu;2312;Ture Pehrsson;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2089;2;Vastaaja/Syytetty;2638;Pehr Ruotsalainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2090;1;Kantaja/Asianomistaja;2260;Påhl Bertilsson Partanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2090;2;Vastaaja/Syytetty;1125;Bertil Korhonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2091;1;Kantaja/Asianomistaja;2812;Michel Saikonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2091;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2091;3;Selvitysmies;2028;Olof Nousiainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2091;3;Selvitysmies;1125;Bertil Korhonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2091;2;Vastaaja/Syytetty;1467;Lars Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2093;1;Kantaja/Asianomistaja;361;Henrich Holopainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2093;5;Muu;2120;Isak Olofsson;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2093;2;Vastaaja/Syytetty;1466;Lars Henrichsson Lappalainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2094;1;Kantaja/Asianomistaja;1522;Erik Lapveteläinen;Varkausrikokset;Omavaltainen pantti
+2094;2;Vastaaja/Syytetty;2203;Jöns Partanen;Varkausrikokset;Omavaltainen pantti
+2095;1;Kantaja/Asianomistaja;1773;Pehr Pehrsson Martikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2095;2;Vastaaja/Syytetty;1772;Pehr Olofsson Martikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2097;1;Kantaja/Asianomistaja;2461;Olof Påhlsson Schmit;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2097;5;Muu;2824;Mats Sairanen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2097;6;Syyttäjä;6;Willhelm Afleck;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2097;2;Vastaaja/Syytetty;2865;Thomas Thomasson Silvennoinen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2098;1;Kantaja/Asianomistaja;2461;Olof Påhlsson Schmit;Väkivalta;Tappo
+2098;5;Muu;1186;Jöns Kurck;Väkivalta;Tappo
+2098;5;Muu;3021;Johan Tavast;Väkivalta;Tappo
+2098;5;Muu;2379;Henrich Pietikäinen;Väkivalta;Tappo
+2098;5;Muu;113;Mårten Eriksson;Väkivalta;Tappo
+2098;5;Muu;34;Kasper Armus;Väkivalta;Tappo
+2098;5;Muu;978;Kasper Kiemner;Väkivalta;Tappo
+2098;5;Muu;91;Thomas Christersson;Väkivalta;Tappo
+2098;4;Todistaja;913;Mårten Henrichsson Kervinen;Väkivalta;Tappo
+2098;4;Todistaja;3015;Staphan Philipsson Tapaninen;Väkivalta;Tappo
+2098;2;Vastaaja/Syytetty;2865;Thomas Thomasson Silvennoinen;Väkivalta;Tappo
+2101;1;Kantaja/Asianomistaja;1522;Erik Lapveteläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2101;1;Kantaja/Asianomistaja;1546;Pehr Lapveteläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2101;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2101;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2101;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2101;2;Vastaaja/Syytetty;1541;Mats Mårtensson Lapveteläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2102;1;Kantaja/Asianomistaja;1703;Mats Eskilsson Makkonen;Väkivalta;Tappo
+2102;1;Kantaja/Asianomistaja;1689;Eskil Olofsson Makkonen;Väkivalta;Tappo
+2102;1;Kantaja/Asianomistaja;1005;Karin Kilvonen;Väkivalta;Tappo
+2102;1;Kantaja/Asianomistaja;1688;Eskil Matsson Makkonen;Väkivalta;Tappo
+2102;5;Muu;149;Herman Fleming;Väkivalta;Tappo
+2102;5;Muu;922;Anders Kettunen;Väkivalta;Tappo
+2102;5;Muu;2158;Anders Partanen;Väkivalta;Tappo
+2102;5;Muu;1218;Olof Kutilainen;Väkivalta;Tappo
+2102;5;Muu;2855;Lars Sigfredsson;Väkivalta;Tappo
+2102;5;Muu;1196;Hans Kurvinen;Väkivalta;Tappo
+2102;5;Muu;1874;Karl Mörner;Väkivalta;Tappo
+2102;5;Muu;715;Kaisa Kainulainen;Väkivalta;Tappo
+2102;5;Muu;1146;Olaus Andreae Krogerus;Väkivalta;Tappo
+2102;4;Todistaja;952;Olof Andersson Kettunen;Väkivalta;Tappo
+2102;4;Todistaja;2580;Nils Roivas;Väkivalta;Tappo
+2102;2;Vastaaja/Syytetty;2001;Olof Nilsson Nissinen;Väkivalta;Tappo
+2103;5;Muu;1146;Olaus Andreae Krogerus;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2103;2;Vastaaja/Syytetty;2001;Olof Nilsson Nissinen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2103;2;Vastaaja/Syytetty;3400;Tuntematon nainen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2104;5;Muu;1146;Olaus Andreae Krogerus;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2104;2;Vastaaja/Syytetty;2001;Olof Nilsson Nissinen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2104;2;Vastaaja/Syytetty;715;Kaisa Kainulainen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2106;1;Kantaja/Asianomistaja;2600;Anders Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2106;4;Todistaja;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2106;4;Todistaja;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2106;4;Todistaja;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2106;4;Todistaja;3266;Anders Nilsson Utriainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2106;4;Todistaja;3267;Anders Olofsson Utriainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2106;4;Todistaja;46;Anders Auvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2106;2;Vastaaja/Syytetty;1931;Isak Niskanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2107;1;Kantaja/Asianomistaja;2539;Jöns Remes;Haasteen laiminlyönti;Poissaolo käräjiltä
+2107;4;Todistaja;1018;Knut Knutsson Bock;Haasteen laiminlyönti;Poissaolo käräjiltä
+2107;2;Vastaaja/Syytetty;2544;Mats Andersson Remes;Haasteen laiminlyönti;Poissaolo käräjiltä
+2108;1;Kantaja/Asianomistaja;2002;Olof Nissinen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2108;2;Vastaaja/Syytetty;1765;Olof Martikainen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2109;1;Kantaja/Asianomistaja;1535;Kirstin Lapveteläinen;Palkka- ja palkollisasiat;Maksamaton palkka
+2109;3;Selvitysmies;871;Mats Larsson Kauppinen;Palkka- ja palkollisasiat;Maksamaton palkka
+2109;3;Selvitysmies;455;Bertil Matsson Hynninen;Palkka- ja palkollisasiat;Maksamaton palkka
+2109;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Palkka- ja palkollisasiat;Maksamaton palkka
+2109;2;Vastaaja/Syytetty;2481;Erik Pöllänen;Palkka- ja palkollisasiat;Maksamaton palkka
+2110;1;Kantaja/Asianomistaja;1445;Henrich Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2110;2;Vastaaja/Syytetty;1349;Pehr Kärkkäinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2111;1;Kantaja/Asianomistaja;2588;Lars Rotinen;Palkka- ja palkollisasiat;Maksamaton palkka
+2111;3;Selvitysmies;871;Mats Larsson Kauppinen;Palkka- ja palkollisasiat;Maksamaton palkka
+2111;3;Selvitysmies;1086;Mats Pehrsson Koljonen;Palkka- ja palkollisasiat;Maksamaton palkka
+2111;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Palkka- ja palkollisasiat;Maksamaton palkka
+2111;2;Vastaaja/Syytetty;1712;Påhl Makkonen;Palkka- ja palkollisasiat;Maksamaton palkka
+2112;1;Kantaja/Asianomistaja;1687;Eskil Makkonen;Muut rikokset;Käräjämoite/käräjäjuopumus
+2112;2;Vastaaja/Syytetty;955;Olof Kettunen;Muut rikokset;Käräjämoite/käräjäjuopumus
+2113;1;Kantaja/Asianomistaja;443;Pehr Larsson Huttunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2113;1;Kantaja/Asianomistaja;441;Pehr Andersson Huttunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2113;1;Kantaja/Asianomistaja;385;Anders Andersson Huttunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2113;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2113;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2113;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2114;1;Kantaja/Asianomistaja;2301;Maiko Pehrsdotter;Haasteen laiminlyönti;Poissaolo käräjiltä
+2114;4;Todistaja;318;Hiltulaboar;Haasteen laiminlyönti;Poissaolo käräjiltä
+2114;2;Vastaaja/Syytetty;2597;Anders Larsson Ruotsalainen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2115;1;Kantaja/Asianomistaja;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2115;3;Selvitysmies;2638;Pehr Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2115;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2115;3;Selvitysmies;203;Pehr Halonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2115;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2115;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2115;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2115;3;Selvitysmies;1652;Lars Lukkarinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2115;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2115;2;Vastaaja/Syytetty;2970;Anders Pehrsson Sutinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2116;1;Kantaja/Asianomistaja;509;Pehr Hyvärinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2116;2;Vastaaja/Syytetty;1086;Mats Pehrsson Koljonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2117;1;Kantaja/Asianomistaja;2060;Henrich Pehrsson Ollikainen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2117;4;Todistaja;1018;Knut Knutsson Bock;Haasteen laiminlyönti;Poissaolo käräjiltä
+2117;2;Vastaaja/Syytetty;3196;Erik Tuovinen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2118;1;Kantaja/Asianomistaja;2060;Henrich Pehrsson Ollikainen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2118;2;Vastaaja/Syytetty;3211;Olof Michelsson Tuovinen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2118;2;Vastaaja/Syytetty;1018;Knut Knutsson Bock;Haasteen laiminlyönti;Poissaolo käräjiltä
+2119;1;Kantaja/Asianomistaja;1773;Pehr Pehrsson Martikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2119;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2119;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2119;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2119;2;Vastaaja/Syytetty;1772;Pehr Olofsson Martikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2120;1;Kantaja/Asianomistaja;2236;Michel Michelsson Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2120;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2120;3;Selvitysmies;2539;Jöns Remes;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2120;3;Selvitysmies;1486;Olof Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2120;3;Selvitysmies;1285;Mats Kämäräinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2120;2;Vastaaja/Syytetty;1481;Mårten Henrichsson Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2121;1;Kantaja/Asianomistaja;1446;Henrich Larsson Lappalainen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2121;2;Vastaaja/Syytetty;2226;Lars Partanen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2122;1;Kantaja/Asianomistaja;1445;Henrich Lappalainen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2122;3;Selvitysmies;2028;Olof Nousiainen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2122;3;Selvitysmies;3090;Henrich Tikkanen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2122;2;Vastaaja/Syytetty;1162;Visa Kumpulainen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2122;2;Vastaaja/Syytetty;2267;Påhl Partanen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2123;1;Kantaja/Asianomistaja;2663;Pehr Olofsson Ryhänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2123;2;Vastaaja/Syytetty;3210;Michel Tuovinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2124;1;Kantaja/Asianomistaja;504;Olof Hyvärinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2124;2;Vastaaja/Syytetty;498;Mats Hyvärinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2125;1;Kantaja/Asianomistaja;504;Olof Hyvärinen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2125;2;Vastaaja/Syytetty;498;Mats Hyvärinen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2126;1;Kantaja/Asianomistaja;975;Anders Olofsson Kietäväinen;Velat, ulosmittaukset ja kaupankäynti;Kauppariita
+2126;2;Vastaaja/Syytetty;1467;Lars Lappalainen;Velat, ulosmittaukset ja kaupankäynti;Kauppariita
+2126;2;Vastaaja/Syytetty;1445;Henrich Lappalainen;Velat, ulosmittaukset ja kaupankäynti;Kauppariita
+2126;2;Vastaaja/Syytetty;1481;Mårten Henrichsson Lappalainen;Velat, ulosmittaukset ja kaupankäynti;Kauppariita
+2127;1;Kantaja/Asianomistaja;319;Clemet Hiltunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2127;1;Kantaja/Asianomistaja;334;Mårten Hiltunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2127;1;Kantaja/Asianomistaja;332;Michel Hiltunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2127;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2127;3;Selvitysmies;203;Pehr Halonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2127;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2128;1;Kantaja/Asianomistaja;1796;Lars Matsson;Hallinto- ja ilmoitusasiat;Autiotilat
+2128;5;Muu;2580;Nils Roivas;Hallinto- ja ilmoitusasiat;Autiotilat
+2129;1;Kantaja/Asianomistaja;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2129;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2129;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2129;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2129;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2129;3;Selvitysmies;203;Pehr Halonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2129;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2129;2;Vastaaja/Syytetty;636;Anders Matsson Jääskeläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2130;1;Kantaja/Asianomistaja;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2130;5;Muu;1806;Erik Michelsson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2130;2;Vastaaja/Syytetty;1249;Lars Kähkönen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2131;1;Kantaja/Asianomistaja;1249;Lars Kähkönen;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+2131;2;Vastaaja/Syytetty;2267;Påhl Partanen;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+2132;1;Kantaja/Asianomistaja;2772;Visa Rönkkö;Hallinto- ja ilmoitusasiat;Autiotilat
+2132;5;Muu;169;Henrich Haatainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2133;1;Kantaja/Asianomistaja;726;Simon Kainulainen;Varkausrikokset;Ryöstö, varkaus, näpistys
+2133;5;Muu;455;Bertil Matsson Hynninen;Varkausrikokset;Ryöstö, varkaus, näpistys
+2133;2;Vastaaja/Syytetty;424;Maiko Huttunen;Varkausrikokset;Ryöstö, varkaus, näpistys
+2134;1;Kantaja/Asianomistaja;205;Pehr Philipsson Halonen;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+2135;1;Kantaja/Asianomistaja;1614;Michel Pehrsson Lintunen;Hallinto- ja ilmoitusasiat;Autiotilat
+2135;5;Muu;2967;Påhl Suripää;Hallinto- ja ilmoitusasiat;Autiotilat
+2135;5;Muu;203;Pehr Halonen;Hallinto- ja ilmoitusasiat;Autiotilat
+2135;5;Muu;2523;Påhl Jönssön Rautapartanen;Hallinto- ja ilmoitusasiat;Autiotilat
+2135;5;Muu;2723;Henrich Ryynänen;Hallinto- ja ilmoitusasiat;Autiotilat
+2136;1;Kantaja/Asianomistaja;1196;Hans Kurvinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2136;2;Vastaaja/Syytetty;1712;Påhl Makkonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2137;1;Kantaja/Asianomistaja;1125;Bertil Korhonen;Vahingonkorvaukset;Muut vahingonkorvaukset
+2137;2;Vastaaja/Syytetty;1712;Påhl Makkonen;Vahingonkorvaukset;Muut vahingonkorvaukset
+2138;1;Kantaja/Asianomistaja;509;Pehr Hyvärinen;Perintö;Ilmoitus tai riita perinnöstä
+2138;3;Selvitysmies;6;Willhelm Afleck;Perintö;Ilmoitus tai riita perinnöstä
+2138;2;Vastaaja/Syytetty;519;Staphan Pehrsson Hyvärinen;Perintö;Ilmoitus tai riita perinnöstä
+2139;1;Kantaja/Asianomistaja;1086;Mats Pehrsson Koljonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2139;3;Selvitysmies;2157;Anders Olofsson Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2139;3;Selvitysmies;2167;Bertil Olofsson Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2139;2;Vastaaja/Syytetty;2154;Anders Johansson Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2139;2;Vastaaja/Syytetty;2237;Michel Olofsson Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2140;1;Kantaja/Asianomistaja;1481;Mårten Henrichsson Lappalainen;Perintö;Ilmoitus tai riita perinnöstä
+2140;3;Selvitysmies;871;Mats Larsson Kauppinen;Perintö;Ilmoitus tai riita perinnöstä
+2140;3;Selvitysmies;455;Bertil Matsson Hynninen;Perintö;Ilmoitus tai riita perinnöstä
+2140;2;Vastaaja/Syytetty;1466;Lars Henrichsson Lappalainen;Perintö;Ilmoitus tai riita perinnöstä
+2140;2;Vastaaja/Syytetty;1442;Henrich Henrichsson Lappalainen;Perintö;Ilmoitus tai riita perinnöstä
+2141;1;Kantaja/Asianomistaja;1467;Lars Lappalainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2141;2;Vastaaja/Syytetty;1349;Pehr Kärkkäinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2142;1;Kantaja/Asianomistaja;1897;Pehr Niirainen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2142;2;Vastaaja/Syytetty;668;Anders Jönsson Kaarakainen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2143;1;Kantaja/Asianomistaja;548;Lars Påhlsson Ikonen;Palkka- ja palkollisasiat;Maksamaton palkka
+2143;2;Vastaaja/Syytetty;639;Eskil Jääskeläinen;Palkka- ja palkollisasiat;Maksamaton palkka
+2145;5;Muu;202;Olof Philipsson Halonen;Muut rikokset;Muut sekalaiset rikokset
+2145;5;Muu;225;Anders Hara;Muut rikokset;Muut sekalaiset rikokset
+2145;5;Muu;1711;Påhl Eskilsson Makkonen;Muut rikokset;Muut sekalaiset rikokset
+2145;5;Muu;2003;Olof Olofsson Nissinen;Muut rikokset;Muut sekalaiset rikokset
+2145;5;Muu;1703;Mats Eskilsson Makkonen;Muut rikokset;Muut sekalaiset rikokset
+2145;2;Vastaaja/Syytetty;2600;Anders Ruotsalainen;Muut rikokset;Muut sekalaiset rikokset
+2147;1;Kantaja/Asianomistaja;3391;Erik Perhsson Savolainen;Perintö;Ilmoitus tai riita perinnöstä
+2147;4;Todistaja;276;Lars Heiskanen;Perintö;Ilmoitus tai riita perinnöstä
+2147;4;Todistaja;258;Anders Heiskanen;Perintö;Ilmoitus tai riita perinnöstä
+2147;2;Vastaaja/Syytetty;1086;Mats Pehrsson Koljonen;Perintö;Ilmoitus tai riita perinnöstä
+2148;1;Kantaja/Asianomistaja;1712;Påhl Makkonen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2148;2;Vastaaja/Syytetty;955;Olof Kettunen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2149;5;Muu;1705;Olof Eskilsson Makkonen;Muut rikokset;Käräjämoite/käräjäjuopumus
+2149;2;Vastaaja/Syytetty;955;Olof Kettunen;Muut rikokset;Käräjämoite/käräjäjuopumus
+2150;1;Kantaja/Asianomistaja;276;Lars Heiskanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2150;2;Vastaaja/Syytetty;1086;Mats Pehrsson Koljonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2151;1;Kantaja/Asianomistaja;2203;Jöns Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2151;3;Selvitysmies;1485;Olof Henrichsson Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2151;3;Selvitysmies;2539;Jöns Remes;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2151;3;Selvitysmies;1285;Mats Kämäräinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2151;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2151;3;Selvitysmies;952;Olof Andersson Kettunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2151;3;Selvitysmies;2014;Påhl Nissinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2151;3;Selvitysmies;1481;Mårten Henrichsson Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2151;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2151;3;Selvitysmies;2226;Lars Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2151;3;Selvitysmies;3125;Påhl Hintzasson Tikkanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2151;3;Selvitysmies;2238;Michel Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2151;3;Selvitysmies;863;Johan Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2151;2;Vastaaja/Syytetty;1711;Påhl Eskilsson Makkonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2152;1;Kantaja/Asianomistaja;2970;Anders Pehrsson Sutinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2152;2;Vastaaja/Syytetty;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2153;1;Kantaja/Asianomistaja;1857;Clemet Olofsson Mähönen;Palkka- ja palkollisasiat;Maksamaton palkka
+2153;2;Vastaaja/Syytetty;2047;Anders Ollikainen;Palkka- ja palkollisasiat;Maksamaton palkka
+2154;1;Kantaja/Asianomistaja;2974;Lars Matsson Sutinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2154;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2154;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2154;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2154;2;Vastaaja/Syytetty;632;Olof Juutinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2155;1;Kantaja/Asianomistaja;187;Anders Halonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2155;2;Vastaaja/Syytetty;1086;Mats Pehrsson Koljonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2156;1;Kantaja/Asianomistaja;1136;Olof Korpinen;Perintö;Pesänjako, erojako
+2156;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Perintö;Pesänjako, erojako
+2156;3;Selvitysmies;203;Pehr Halonen;Perintö;Pesänjako, erojako
+2156;2;Vastaaja/Syytetty;1135;Henrich Korpinen;Perintö;Pesänjako, erojako
+2157;1;Kantaja/Asianomistaja;2731;Olof Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2157;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2157;3;Selvitysmies;1639;Hemming Jöransson Lukkarinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2157;3;Selvitysmies;2971;Anders Sutinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2157;3;Selvitysmies;1176;Kuosma Kuosmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2157;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2157;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2157;3;Selvitysmies;3193;Bertil Tuovinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2157;3;Selvitysmies;2567;Thomas Rissanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2157;3;Selvitysmies;177;Jöran Hakkarainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2157;3;Selvitysmies;3063;Mats Tiihonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2157;3;Selvitysmies;2329;Anders Pesonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2157;3;Selvitysmies;1595;Jöns Leskinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2157;2;Vastaaja/Syytetty;388;Anders Huttunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2158;1;Kantaja/Asianomistaja;2631;Nils Pehrsson Ruotsalainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2158;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2158;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2158;2;Vastaaja/Syytetty;1467;Lars Lappalainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2159;1;Kantaja/Asianomistaja;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2159;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2159;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2159;3;Selvitysmies;203;Pehr Halonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2159;2;Vastaaja/Syytetty;2640;Påhl Henrichsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2160;4;Todistaja;2638;Pehr Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2160;2;Vastaaja/Syytetty;3200;Jöran Tuovinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2160;2;Vastaaja/Syytetty;2060;Henrich Pehrsson Ollikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2161;1;Kantaja/Asianomistaja;871;Mats Larsson Kauppinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2161;2;Vastaaja/Syytetty;1711;Påhl Eskilsson Makkonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2162;2;Vastaaja/Syytetty;2857;Anna Pehrsdotter Sihvonen;Seksuaalirikokset;Salavuoteus
+2162;2;Vastaaja/Syytetty;1753;Jöran Martikainen;Seksuaalirikokset;Salavuoteus
+2163;1;Kantaja/Asianomistaja;1652;Lars Lukkarinen;Palkka- ja palkollisasiat;Maksamaton palkka
+2163;2;Vastaaja/Syytetty;1172;Johan Kuosmanen;Palkka- ja palkollisasiat;Maksamaton palkka
+2164;1;Kantaja/Asianomistaja;2230;Maiko Partanen;Palkka- ja palkollisasiat;Maksamaton palkka
+2164;2;Vastaaja/Syytetty;2203;Jöns Partanen;Palkka- ja palkollisasiat;Maksamaton palkka
+2165;1;Kantaja/Asianomistaja;2203;Jöns Partanen;Sotilaat;Kutsuntoihin ja sotilaaksiottoon liittyvät riidat
+2165;2;Vastaaja/Syytetty;225;Anders Hara;Sotilaat;Kutsuntoihin ja sotilaaksiottoon liittyvät riidat
+2166;1;Kantaja/Asianomistaja;460;Henrich Hynninen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2166;3;Selvitysmies;2723;Henrich Ryynänen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2166;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2166;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2166;2;Vastaaja/Syytetty;2058;Henrich Ollikainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2168;1;Kantaja/Asianomistaja;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2168;1;Kantaja/Asianomistaja;2971;Anders Sutinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2168;1;Kantaja/Asianomistaja;461;Henrich Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2168;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2168;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2168;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2169;1;Kantaja/Asianomistaja;899;Jöns Kemiläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2169;2;Vastaaja/Syytetty;1481;Mårten Henrichsson Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2170;1;Kantaja/Asianomistaja;933;Henrich Påhlsson Kettunen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2170;2;Vastaaja/Syytetty;952;Olof Andersson Kettunen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2171;1;Kantaja/Asianomistaja;1522;Erik Lapveteläinen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2171;2;Vastaaja/Syytetty;1540;Mats Lapveteläinen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2172;1;Kantaja/Asianomistaja;1034;Signe Kokkarinen;Palkka- ja palkollisasiat;Maksamaton palkka
+2172;2;Vastaaja/Syytetty;434;Olof Andersson Huttunen;Palkka- ja palkollisasiat;Maksamaton palkka
+2173;1;Kantaja/Asianomistaja;771;Hans Kapanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2173;2;Vastaaja/Syytetty;2731;Olof Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2174;1;Kantaja/Asianomistaja;1486;Olof Lappalainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2174;2;Vastaaja/Syytetty;1445;Henrich Lappalainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2175;1;Kantaja/Asianomistaja;1445;Henrich Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2175;2;Vastaaja/Syytetty;1481;Mårten Henrichsson Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2176;1;Kantaja/Asianomistaja;1522;Erik Lapveteläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2176;2;Vastaaja/Syytetty;2018;Staphan Pehrsson Nissinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2177;1;Kantaja/Asianomistaja;1522;Erik Lapveteläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2177;2;Vastaaja/Syytetty;2018;Staphan Pehrsson Nissinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2177;2;Vastaaja/Syytetty;2058;Henrich Ollikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2178;1;Kantaja/Asianomistaja;2644;Påhl Ruotsalainen;Perintö;Ilmoitus tai riita perinnöstä
+2178;2;Vastaaja/Syytetty;2631;Nils Pehrsson Ruotsalainen;Perintö;Ilmoitus tai riita perinnöstä
+2179;1;Kantaja/Asianomistaja;334;Mårten Hiltunen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2179;2;Vastaaja/Syytetty;784;Sigfred Kapanen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2180;1;Kantaja/Asianomistaja;2911;Brita Sormunen;Väkivalta;Pahoinpitely
+2180;2;Vastaaja/Syytetty;1771;Pehr Martikainen;Väkivalta;Pahoinpitely
+2181;1;Kantaja/Asianomistaja;1771;Pehr Martikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2181;3;Selvitysmies;205;Pehr Philipsson Halonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2181;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2181;2;Vastaaja/Syytetty;2862;Påhl Sihvonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2182;1;Kantaja/Asianomistaja;2812;Michel Saikonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2182;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2182;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2182;3;Selvitysmies;276;Lars Heiskanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2182;2;Vastaaja/Syytetty;2817;Påhl Saikonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2183;1;Kantaja/Asianomistaja;2644;Påhl Ruotsalainen;Vahingonkorvaukset;Kotieläinten vahingot
+2183;2;Vastaaja/Syytetty;1165;Kuosmalaboar;Vahingonkorvaukset;Kotieläinten vahingot
+2184;1;Kantaja/Asianomistaja;1897;Pehr Niirainen;Vahingonkorvaukset;Kotieläinten vahingot
+2184;2;Vastaaja/Syytetty;668;Anders Jönsson Kaarakainen;Vahingonkorvaukset;Kotieläinten vahingot
+2185;1;Kantaja/Asianomistaja;319;Clemet Hiltunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2185;2;Vastaaja/Syytetty;332;Michel Hiltunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2186;1;Kantaja/Asianomistaja;1526;Henrich Pehrsson Lapveteläinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2186;5;Muu;455;Bertil Matsson Hynninen;Hallinto- ja ilmoitusasiat;Autiotilat
+2186;5;Muu;2723;Henrich Ryynänen;Hallinto- ja ilmoitusasiat;Autiotilat
+2188;1;Kantaja/Asianomistaja;1376;Jacob Käukonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2188;2;Vastaaja/Syytetty;3245;Christer Ulmanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2189;1;Kantaja/Asianomistaja;2195;Johan Karlsson Partanen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2189;1;Kantaja/Asianomistaja;1196;Hans Kurvinen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2189;1;Kantaja/Asianomistaja;1998;Nils Nissinen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2189;2;Vastaaja/Syytetty;1376;Jacob Käukonen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2190;1;Kantaja/Asianomistaja;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2190;2;Vastaaja/Syytetty;2580;Nils Roivas;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2191;1;Kantaja/Asianomistaja;2580;Nils Roivas;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2191;2;Vastaaja/Syytetty;670;Eskil Jönsson Kaarakainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2192;1;Kantaja/Asianomistaja;2001;Olof Nilsson Nissinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2194;2;Vastaaja/Syytetty;2511;Johan Rautapartanen;Muut rikokset;Käräjämoite/käräjäjuopumus
+2195;1;Kantaja/Asianomistaja;1709;Pehr Makkonen;Hallinto- ja ilmoitusasiat;Kuulutukset ja yleiset ilmoitukset
+2196;1;Kantaja/Asianomistaja;859;Grels Jönsson Kauppinen;Palkka- ja palkollisasiat;Maksamaton palkka
+2197;1;Kantaja/Asianomistaja;1322;Jöns Kärkkäinen;Palkka- ja palkollisasiat;Maksamaton palkka
+2197;2;Vastaaja/Syytetty;2282;Visa Partanen;Palkka- ja palkollisasiat;Maksamaton palkka
+2198;1;Kantaja/Asianomistaja;2817;Påhl Saikonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2198;5;Muu;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2198;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2198;3;Selvitysmies;3093;Hintza Tikkanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2198;3;Selvitysmies;643;Henrich Jääskeläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2198;3;Selvitysmies;276;Lars Heiskanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2198;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2198;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2198;3;Selvitysmies;1771;Pehr Martikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2198;3;Selvitysmies;1486;Olof Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2198;3;Selvitysmies;1433;Erik Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2198;2;Vastaaja/Syytetty;1086;Mats Pehrsson Koljonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2199;2;Vastaaja/Syytetty;871;Mats Larsson Kauppinen;Muut rikokset;Muut sekalaiset rikokset
+2200;2;Vastaaja/Syytetty;3122;Pehr Tikkanen;Yleisten velvollisuuksien laiminlyönti;Muut velvollisuus rikkomukset
+2201;2;Vastaaja/Syytetty;385;Anders Andersson Huttunen;Yleisten velvollisuuksien laiminlyönti;Muut velvollisuus rikkomukset
+2202;2;Vastaaja/Syytetty;1343;Olof Kärkkäinen;Yleisten velvollisuuksien laiminlyönti;Muut velvollisuus rikkomukset
+2203;1;Kantaja/Asianomistaja;406;Jacob Huttunen;Väkivalta;Pahoinpitely
+2203;2;Vastaaja/Syytetty;2663;Pehr Olofsson Ryhänen;Väkivalta;Pahoinpitely
+2204;2;Vastaaja/Syytetty;3008;Bertil Tapaninen;Muut rikokset;Käräjämoite/meteli/juopumus
+2205;1;Kantaja/Asianomistaja;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2205;3;Selvitysmies;3093;Hintza Tikkanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2205;3;Selvitysmies;2028;Olof Nousiainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2205;2;Vastaaja/Syytetty;3028;Anders Tenhunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2206;1;Kantaja/Asianomistaja;2523;Påhl Jönssön Rautapartanen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2206;3;Selvitysmies;2028;Olof Nousiainen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2206;3;Selvitysmies;3093;Hintza Tikkanen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2206;3;Selvitysmies;2379;Henrich Pietikäinen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2206;2;Vastaaja/Syytetty;2824;Mats Sairanen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2207;1;Kantaja/Asianomistaja;333;Michel Larsson Hiltunen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2207;2;Vastaaja/Syytetty;871;Mats Larsson Kauppinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2208;1;Kantaja/Asianomistaja;455;Bertil Matsson Hynninen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2208;2;Vastaaja/Syytetty;668;Anders Jönsson Kaarakainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2209;1;Kantaja/Asianomistaja;1086;Mats Pehrsson Koljonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2209;2;Vastaaja/Syytetty;2203;Jöns Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2211;1;Kantaja/Asianomistaja;2580;Nils Roivas;Vahingonteot ja omavaltainen nautinta;Muut omavaltaisuudet
+2211;2;Vastaaja/Syytetty;2203;Jöns Partanen;Vahingonteot ja omavaltainen nautinta;Muut omavaltaisuudet
+2212;1;Kantaja/Asianomistaja;632;Olof Juutinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2212;2;Vastaaja/Syytetty;2980;Nils Sutinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2213;1;Kantaja/Asianomistaja;1796;Lars Matsson;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2213;5;Muu;83;Samuel Paldanius;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2213;2;Vastaaja/Syytetty;1868;Hans Määttä;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2214;1;Kantaja/Asianomistaja;1796;Lars Matsson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2214;3;Selvitysmies;1771;Pehr Martikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2214;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2214;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2214;2;Vastaaja/Syytetty;460;Henrich Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2215;1;Kantaja/Asianomistaja;1526;Henrich Pehrsson Lapveteläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2215;5;Muu;879;Johan Kauranen (Haberman);Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2215;2;Vastaaja/Syytetty;2058;Henrich Ollikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2216;1;Kantaja/Asianomistaja;1512;Anders Pehrsson Lapveteläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2216;5;Muu;879;Johan Kauranen (Haberman);Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2216;2;Vastaaja/Syytetty;2216;Karl Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2217;1;Kantaja/Asianomistaja;187;Anders Halonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2217;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2217;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2217;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2217;2;Vastaaja/Syytetty;643;Henrich Jääskeläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2218;1;Kantaja/Asianomistaja;372;Olof Hujanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2218;4;Todistaja;643;Henrich Jääskeläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2218;2;Vastaaja/Syytetty;2817;Påhl Saikonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2219;5;Muu;1590;Valborg Jöransdotter Leinonen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2219;5;Muu;1703;Mats Eskilsson Makkonen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2219;5;Muu;2001;Olof Nilsson Nissinen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2219;5;Muu;6;Willhelm Afleck;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2219;5;Muu;589;Anders Johansson;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2219;6;Syyttäjä;83;Samuel Paldanius;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2219;6;Syyttäjä;2580;Nils Roivas;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2219;4;Todistaja;871;Mats Larsson Kauppinen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2219;4;Todistaja;1796;Lars Matsson;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2219;2;Vastaaja/Syytetty;999;Kaisa Pehrsdotter Kilpinen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2219;2;Vastaaja/Syytetty;2363;Henrich Pielikäinen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2220;5;Muu;999;Kaisa Pehrsdotter Kilpinen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2220;5;Muu;1703;Mats Eskilsson Makkonen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2220;5;Muu;2363;Henrich Pielikäinen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2220;5;Muu;6;Willhelm Afleck;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2220;5;Muu;589;Anders Johansson;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2220;6;Syyttäjä;83;Samuel Paldanius;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2220;6;Syyttäjä;2580;Nils Roivas;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2220;4;Todistaja;871;Mats Larsson Kauppinen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2220;4;Todistaja;1796;Lars Matsson;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2220;2;Vastaaja/Syytetty;1590;Valborg Jöransdotter Leinonen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2220;2;Vastaaja/Syytetty;2001;Olof Nilsson Nissinen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2221;1;Kantaja/Asianomistaja;2742;Bengt Räisänen;Hallinto- ja ilmoitusasiat;Verotus
+2221;2;Vastaaja/Syytetty;1549;Påhl Enevaldsson Lapveteläinen;Hallinto- ja ilmoitusasiat;Verotus
+2221;2;Vastaaja/Syytetty;2018;Staphan Pehrsson Nissinen;Hallinto- ja ilmoitusasiat;Verotus
+2222;1;Kantaja/Asianomistaja;2158;Anders Partanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2222;1;Kantaja/Asianomistaja;2175;Erik Partanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2222;2;Vastaaja/Syytetty;2203;Jöns Partanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2223;1;Kantaja/Asianomistaja;2823;Lars Sairanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2223;5;Muu;879;Johan Kauranen (Haberman);Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2223;2;Vastaaja/Syytetty;2580;Nils Roivas;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2224;1;Kantaja/Asianomistaja;1121;Sigfred Koponen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2224;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2224;3;Selvitysmies;836;Mats Husso Kasurinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2224;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2224;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2224;2;Vastaaja/Syytetty;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2225;1;Kantaja/Asianomistaja;3156;Inga Turunen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2225;2;Vastaaja/Syytetty;1652;Lars Lukkarinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2226;1;Kantaja/Asianomistaja;2731;Olof Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2226;2;Vastaaja/Syytetty;771;Hans Kapanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2227;1;Kantaja/Asianomistaja;694;Eskil Kaikkonen;Hallinto- ja ilmoitusasiat;Autiotilat
+2227;5;Muu;2028;Olof Nousiainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2227;5;Muu;1481;Mårten Henrichsson Lappalainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2227;5;Muu;498;Mats Hyvärinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2228;1;Kantaja/Asianomistaja;188;Anders Pehrsson Halonen;Hallinto- ja ilmoitusasiat;Autiotilat
+2228;5;Muu;1467;Lars Lappalainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2228;5;Muu;2723;Henrich Ryynänen;Hallinto- ja ilmoitusasiat;Autiotilat
+2228;5;Muu;2924;Olof Sormunen;Hallinto- ja ilmoitusasiat;Autiotilat
+2228;5;Muu;2523;Påhl Jönssön Rautapartanen;Hallinto- ja ilmoitusasiat;Autiotilat
+2229;1;Kantaja/Asianomistaja;2539;Jöns Remes;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2229;2;Vastaaja/Syytetty;2544;Mats Andersson Remes;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2230;1;Kantaja/Asianomistaja;2539;Jöns Remes;Maanhallinta ja nautinta;Muu hallinta ja nautinta
+2230;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Muu hallinta ja nautinta
+2230;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Muu hallinta ja nautinta
+2230;2;Vastaaja/Syytetty;2544;Mats Andersson Remes;Maanhallinta ja nautinta;Muu hallinta ja nautinta
+2231;1;Kantaja/Asianomistaja;441;Pehr Andersson Huttunen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2231;2;Vastaaja/Syytetty;400;Henrich Huttunen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2232;1;Kantaja/Asianomistaja;384;Huttulaboar;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2232;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2232;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2232;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2233;2;Vastaaja/Syytetty;2058;Henrich Ollikainen;Vahingonteot ja omavaltainen nautinta;Muut omavaltaisuudet
+2234;1;Kantaja/Asianomistaja;2580;Nils Roivas;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2234;2;Vastaaja/Syytetty;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2235;1;Kantaja/Asianomistaja;976;Jöns Matsson Kietäväinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2235;3;Selvitysmies;203;Pehr Halonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2235;3;Selvitysmies;3019;Hans Taskinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2235;3;Selvitysmies;836;Mats Husso Kasurinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2235;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2235;3;Selvitysmies;319;Clemet Hiltunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2235;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2235;3;Selvitysmies;2731;Olof Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2235;2;Vastaaja/Syytetty;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2236;1;Kantaja/Asianomistaja;548;Lars Påhlsson Ikonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2237;1;Kantaja/Asianomistaja;2036;Olof Nykänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2237;4;Todistaja;2028;Olof Nousiainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2237;4;Todistaja;2600;Anders Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2237;2;Vastaaja/Syytetty;3287;Utrialaboar;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2239;1;Kantaja/Asianomistaja;2583;Påhl Ronkanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2239;2;Vastaaja/Syytetty;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2240;1;Kantaja/Asianomistaja;498;Mats Hyvärinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2240;2;Vastaaja/Syytetty;3073;Anders Matsson Tikkanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2241;1;Kantaja/Asianomistaja;981;Anna Kiiskinen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2241;2;Vastaaja/Syytetty;2231;Marcus Partanen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2242;1;Kantaja/Asianomistaja;3008;Bertil Tapaninen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2242;2;Vastaaja/Syytetty;1896;Pehr Andersson Niirainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2243;1;Kantaja/Asianomistaja;2268;Påhl Pehrsson Partanen;Vahingonkorvaukset;Kotieläinten vahingot
+2243;4;Todistaja;1086;Mats Pehrsson Koljonen;Vahingonkorvaukset;Kotieläinten vahingot
+2243;2;Vastaaja/Syytetty;2203;Jöns Partanen;Vahingonkorvaukset;Kotieläinten vahingot
+2244;1;Kantaja/Asianomistaja;1285;Mats Kämäräinen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2244;2;Vastaaja/Syytetty;3073;Anders Matsson Tikkanen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2244;2;Vastaaja/Syytetty;2022;Mats Noppala;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2245;1;Kantaja/Asianomistaja;722;Pehr Jacobsson Kainulainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2245;5;Muu;2479;Anders Pöllänen;Hallinto- ja ilmoitusasiat;Autiotilat
+2245;5;Muu;1086;Mats Pehrsson Koljonen;Hallinto- ja ilmoitusasiat;Autiotilat
+2245;5;Muu;668;Anders Jönsson Kaarakainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2246;1;Kantaja/Asianomistaja;2580;Nils Roivas;Vahingonkorvaukset;Kotieläinten vahingot
+2246;4;Todistaja;668;Anders Jönsson Kaarakainen;Vahingonkorvaukset;Kotieläinten vahingot
+2246;2;Vastaaja/Syytetty;1196;Hans Kurvinen;Vahingonkorvaukset;Kotieläinten vahingot
+2247;1;Kantaja/Asianomistaja;441;Pehr Andersson Huttunen;Vahingonkorvaukset;Muut vahingonkorvaukset
+2247;2;Vastaaja/Syytetty;443;Pehr Larsson Huttunen;Vahingonkorvaukset;Muut vahingonkorvaukset
+2250;1;Kantaja/Asianomistaja;602;Michel Jordan;Kunnia;Esivallan tai virkamiehen solvaus
+2250;4;Todistaja;871;Mats Larsson Kauppinen;Kunnia;Esivallan tai virkamiehen solvaus
+2250;4;Todistaja;685;Visa Kaarakainen;Kunnia;Esivallan tai virkamiehen solvaus
+2250;2;Vastaaja/Syytetty;2760;Lars Rönkkö;Kunnia;Esivallan tai virkamiehen solvaus
+2251;1;Kantaja/Asianomistaja;2205;Jöns Visasson Partanen;Palkka- ja palkollisasiat;Maksamaton palkka
+2251;2;Vastaaja/Syytetty;643;Henrich Jääskeläinen;Palkka- ja palkollisasiat;Maksamaton palkka
+2252;1;Kantaja/Asianomistaja;3381;Zacharias Zachariasson;Maanhallinta ja nautinta;Kalastusvedet ja kalastamot
+2253;1;Kantaja/Asianomistaja;706;Pehr Larsson Kekkonen;Hallinto- ja ilmoitusasiat;Autiotilat
+2253;5;Muu;1786;Michel Matilainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2254;1;Kantaja/Asianomistaja;374;Olof Olofsson Hujanen;Hallinto- ja ilmoitusasiat;Autiotilat
+2254;5;Muu;688;Anders Matsson Kekkonen;Hallinto- ja ilmoitusasiat;Autiotilat
+2254;5;Muu;871;Mats Larsson Kauppinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2254;5;Muu;863;Johan Kauppinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2255;1;Kantaja/Asianomistaja;2156;Anders Jöransson Partanen;Kunnia;Aiheettomat syytökset
+2255;2;Vastaaja/Syytetty;1512;Anders Pehrsson Lapveteläinen;Kunnia;Aiheettomat syytökset
+2256;2;Vastaaja/Syytetty;2156;Anders Jöransson Partanen;Sapattirikokset;Työnteko pyhänä
+2257;4;Todistaja;3281;Nils Utriainen;Sapattirikokset;Työnteko pyhänä
+2257;2;Vastaaja/Syytetty;3269;Bertil Utriainen;Sapattirikokset;Työnteko pyhänä
+2258;1;Kantaja/Asianomistaja;3082;Elin Tikkanen;Väkivalta;Pahoinpitely
+2258;4;Todistaja;3184;Påhl Tossavainen;Väkivalta;Pahoinpitely
+2258;4;Todistaja;1931;Isak Niskanen;Väkivalta;Pahoinpitely
+2258;2;Vastaaja/Syytetty;3060;Påhl Tiainen;Väkivalta;Pahoinpitely
+2259;3;Selvitysmies;2723;Henrich Ryynänen;Hallinto- ja ilmoitusasiat;Autiotilat
+2259;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Hallinto- ja ilmoitusasiat;Autiotilat
+2259;3;Selvitysmies;3381;Zacharias Zachariasson;Hallinto- ja ilmoitusasiat;Autiotilat
+2259;2;Vastaaja/Syytetty;1640;Hemming Larsson Lukkarinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2260;1;Kantaja/Asianomistaja;389;Anders Isaksson Huttunen;Palkka- ja palkollisasiat;Maksamaton palkka
+2260;2;Vastaaja/Syytetty;2184;Henrich Partanen;Palkka- ja palkollisasiat;Maksamaton palkka
+2261;1;Kantaja/Asianomistaja;388;Anders Huttunen;Väkivalta;Pahoinpitely
+2261;2;Vastaaja/Syytetty;2184;Henrich Partanen;Väkivalta;Pahoinpitely
+2262;1;Kantaja/Asianomistaja;1172;Johan Kuosmanen;Hallinto- ja ilmoitusasiat;Verotus
+2262;5;Muu;879;Johan Kauranen (Haberman);Hallinto- ja ilmoitusasiat;Verotus
+2262;5;Muu;548;Lars Påhlsson Ikonen;Hallinto- ja ilmoitusasiat;Verotus
+2263;1;Kantaja/Asianomistaja;3269;Bertil Utriainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2263;3;Selvitysmies;2600;Anders Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2263;3;Selvitysmies;3184;Påhl Tossavainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2263;3;Selvitysmies;2589;Henrich Rovalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2263;2;Vastaaja/Syytetty;1931;Isak Niskanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2264;1;Kantaja/Asianomistaja;1931;Isak Niskanen;Palkka- ja palkollisasiat;Maksamaton palkka
+2264;2;Vastaaja/Syytetty;2688;Henrich Rytkönen;Palkka- ja palkollisasiat;Maksamaton palkka
+2265;1;Kantaja/Asianomistaja;1121;Sigfred Koponen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2265;2;Vastaaja/Syytetty;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2266;1;Kantaja/Asianomistaja;2539;Jöns Remes;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2266;4;Todistaja;1285;Mats Kämäräinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2266;4;Todistaja;2237;Michel Olofsson Partanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2266;2;Vastaaja/Syytetty;2282;Visa Partanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2267;1;Kantaja/Asianomistaja;1285;Mats Kämäräinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2267;2;Vastaaja/Syytetty;2282;Visa Partanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2268;1;Kantaja/Asianomistaja;1289;Pehr Kämäräinen;Perintö;Pesänjako, erojako
+2268;3;Selvitysmies;3093;Hintza Tikkanen;Perintö;Pesänjako, erojako
+2268;3;Selvitysmies;2237;Michel Olofsson Partanen;Perintö;Pesänjako, erojako
+2268;3;Selvitysmies;2756;Jöns Rönkkö;Perintö;Pesänjako, erojako
+2268;2;Vastaaja/Syytetty;1285;Mats Kämäräinen;Perintö;Pesänjako, erojako
+2271;1;Kantaja/Asianomistaja;634;Jääskeläboar;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2271;4;Todistaja;1086;Mats Pehrsson Koljonen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2271;2;Vastaaja/Syytetty;460;Henrich Hynninen;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2272;1;Kantaja/Asianomistaja;1537;Lars Mårtensson Lapveteläinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2272;5;Muu;1526;Henrich Pehrsson Lapveteläinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2272;5;Muu;2723;Henrich Ryynänen;Hallinto- ja ilmoitusasiat;Autiotilat
+2272;5;Muu;2870;Henrich Siponen;Hallinto- ja ilmoitusasiat;Autiotilat
+2272;5;Muu;2523;Påhl Jönssön Rautapartanen;Hallinto- ja ilmoitusasiat;Autiotilat
+2273;1;Kantaja/Asianomistaja;1999;Nils Olofsson Nissinen;Hallinto- ja ilmoitusasiat;Verotus
+2273;1;Kantaja/Asianomistaja;1711;Påhl Eskilsson Makkonen;Hallinto- ja ilmoitusasiat;Verotus
+2273;2;Vastaaja/Syytetty;2580;Nils Roivas;Hallinto- ja ilmoitusasiat;Verotus
+2274;1;Kantaja/Asianomistaja;589;Anders Johansson;Sotilaat;Kutsuntoihin ja sotilaaksiottoon liittyvät riidat
+2274;5;Muu;3163;Lars Matsson Tossavainen;Sotilaat;Kutsuntoihin ja sotilaaksiottoon liittyvät riidat
+2274;2;Vastaaja/Syytetty;2600;Anders Ruotsalainen;Sotilaat;Kutsuntoihin ja sotilaaksiottoon liittyvät riidat
+2274;2;Vastaaja/Syytetty;1931;Isak Niskanen;Sotilaat;Kutsuntoihin ja sotilaaksiottoon liittyvät riidat
+2274;2;Vastaaja/Syytetty;2709;Pehr Rytkönen;Sotilaat;Kutsuntoihin ja sotilaaksiottoon liittyvät riidat
+2274;2;Vastaaja/Syytetty;3172;Michel Larsson Tossavainen;Sotilaat;Kutsuntoihin ja sotilaaksiottoon liittyvät riidat
+2275;5;Muu;134;August Eskilsson;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2275;2;Vastaaja/Syytetty;1215;Maiko Kutilainen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2275;2;Vastaaja/Syytetty;2158;Anders Partanen;Seksuaalirikokset;Yksinkertainen tai molemminpuolinen huoruus
+2276;1;Kantaja/Asianomistaja;3393;Lars Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2276;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2276;3;Selvitysmies;864;Johan Matsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2276;3;Selvitysmies;1771;Pehr Martikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2276;2;Vastaaja/Syytetty;460;Henrich Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2277;1;Kantaja/Asianomistaja;1931;Isak Niskanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2277;5;Muu;293;Henrich Henrichsson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2277;5;Muu;111;Arved Eriksson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2277;5;Muu;147;Giöding Fincke;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2277;5;Muu;21;Henrich Andersson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2277;5;Muu;1964;Påhl Niskanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2277;5;Muu;3268;Anders Utriainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2277;5;Muu;3280;Nils Olofsson Utriainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2280;1;Kantaja/Asianomistaja;496;Kauppi Staphansson Hyvärinen;Väkivalta;Tappo
+2280;5;Muu;225;Anders Hara;Väkivalta;Tappo
+2280;5;Muu;510;Pehr Kauppisson Hyvärinen;Väkivalta;Tappo
+2280;5;Muu;2028;Olof Nousiainen;Väkivalta;Tappo
+2280;5;Muu;520;Staphan Staphansson Hyvärinen;Väkivalta;Tappo
+2280;5;Muu;507;Olof Pehrsson Hyvärinen;Väkivalta;Tappo
+2280;5;Muu;1712;Påhl Makkonen;Väkivalta;Tappo
+2280;5;Muu;2546;Mats Remes;Väkivalta;Tappo
+2280;4;Todistaja;1316;Inga Kärkkäinen;Väkivalta;Tappo
+2280;4;Todistaja;498;Mats Hyvärinen;Väkivalta;Tappo
+2280;2;Vastaaja/Syytetty;512;Pehr Pehrsson Hyvärinen;Väkivalta;Tappo
+2281;1;Kantaja/Asianomistaja;589;Anders Johansson;Varkausrikokset;Omavaltainen pantti
+2281;3;Selvitysmies;3381;Zacharias Zachariasson;Varkausrikokset;Omavaltainen pantti
+2281;2;Vastaaja/Syytetty;859;Grels Jönsson Kauppinen;Varkausrikokset;Omavaltainen pantti
+2282;1;Kantaja/Asianomistaja;539;Idensalmiboar;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2282;5;Muu;149;Herman Fleming;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2282;5;Muu;602;Michel Jordan;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2282;2;Vastaaja/Syytetty;710;Kainoboar;Vahingonteot ja omavaltainen nautinta;Vakava vahingonteko
+2283;1;Kantaja/Asianomistaja;3394;Pehr Pehrsson Hyvärinen vaimo;Varkausrikokset;Omavaltainen pantti
+2283;5;Muu;512;Pehr Pehrsson Hyvärinen;Varkausrikokset;Omavaltainen pantti
+2283;2;Vastaaja/Syytetty;2994;Mårten Svensson;Varkausrikokset;Omavaltainen pantti
+2283;2;Vastaaja/Syytetty;1900;Thomas Niirainen;Varkausrikokset;Omavaltainen pantti
+2284;1;Kantaja/Asianomistaja;188;Anders Pehrsson Halonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2284;2;Vastaaja/Syytetty;2924;Olof Sormunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2285;1;Kantaja/Asianomistaja;2249;Olof Pehrsson Partanen;Perintö;Syytinkisopimus/Pojaksiotto
+2285;2;Vastaaja/Syytetty;2158;Anders Partanen;Perintö;Syytinkisopimus/Pojaksiotto
+2286;1;Kantaja/Asianomistaja;443;Pehr Larsson Huttunen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2286;3;Selvitysmies;417;Jöns Jacobsson Huttunen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2286;3;Selvitysmies;439;Olof Olofsson Huttunen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2286;2;Vastaaja/Syytetty;428;Mats Huttunen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2287;1;Kantaja/Asianomistaja;441;Pehr Andersson Huttunen;Väkivalta;Pahoinpitely
+2287;2;Vastaaja/Syytetty;392;Anders Pehrsson Huttunen;Väkivalta;Pahoinpitely
+2288;2;Vastaaja/Syytetty;441;Pehr Andersson Huttunen;Yleisten velvollisuuksien laiminlyönti;Siltojen ja teiden kunnossapito
+2289;2;Vastaaja/Syytetty;443;Pehr Larsson Huttunen;Muut rikokset;Käräjämoite/meteli/juopumus
+2290;1;Kantaja/Asianomistaja;722;Pehr Jacobsson Kainulainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2290;2;Vastaaja/Syytetty;2757;Lars Andersson Rönkkö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2291;1;Kantaja/Asianomistaja;3282;Olof Utriainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2291;2;Vastaaja/Syytetty;2757;Lars Andersson Rönkkö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2292;1;Kantaja/Asianomistaja;3214;Pehr Jöransson Tuovinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2292;2;Vastaaja/Syytetty;2799;Anders Saikonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2293;1;Kantaja/Asianomistaja;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2294;1;Kantaja/Asianomistaja;3172;Michel Larsson Tossavainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2294;2;Vastaaja/Syytetty;276;Lars Heiskanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2295;1;Kantaja/Asianomistaja;423;Lars Olofsson Huttunen;Sotilaat;Sotilaan palkkaan ja ylläpitoon liittyvät asiat
+2295;5;Muu;149;Herman Fleming;Sotilaat;Sotilaan palkkaan ja ylläpitoon liittyvät asiat
+2295;2;Vastaaja/Syytetty;1852;Lars Mårtensson;Sotilaat;Sotilaan palkkaan ja ylläpitoon liittyvät asiat
+2296;1;Kantaja/Asianomistaja;1541;Mats Mårtensson Lapveteläinen;Vahingonkorvaukset;Kotieläinten vahingot
+2296;2;Vastaaja/Syytetty;1538;Mats Andersson Lapveteläinen;Vahingonkorvaukset;Kotieläinten vahingot
+2296;2;Vastaaja/Syytetty;1520;Erik Andersson Lapveteläinen;Vahingonkorvaukset;Kotieläinten vahingot
+2297;1;Kantaja/Asianomistaja;2150;Partalaboar;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2297;2;Vastaaja/Syytetty;1469;Lars Matsson Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2298;1;Kantaja/Asianomistaja;1749;Johan Martikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2298;2;Vastaaja/Syytetty;2893;Påhl Pehrsson Sihvonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2299;1;Kantaja/Asianomistaja;2893;Påhl Pehrsson Sihvonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2299;2;Vastaaja/Syytetty;1753;Jöran Martikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2300;1;Kantaja/Asianomistaja;2893;Påhl Pehrsson Sihvonen;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+2300;2;Vastaaja/Syytetty;1121;Sigfred Koponen;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+2302;5;Muu;2842;Ivar Savolainen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2302;5;Muu;2631;Nils Pehrsson Ruotsalainen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2302;5;Muu;1796;Lars Matsson;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2302;5;Muu;3261;Påhl Jönsson Ulmanen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2302;5;Muu;668;Anders Jönsson Kaarakainen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2302;5;Muu;1196;Hans Kurvinen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2302;5;Muu;1712;Påhl Makkonen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2302;5;Muu;2014;Påhl Nissinen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2303;1;Kantaja/Asianomistaja;2858;Arved Larsson Sihvonen;Hallinto- ja ilmoitusasiat;Autiotilat
+2303;5;Muu;2723;Henrich Ryynänen;Hallinto- ja ilmoitusasiat;Autiotilat
+2303;5;Muu;1541;Mats Mårtensson Lapveteläinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2303;5;Muu;1538;Mats Andersson Lapveteläinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2304;1;Kantaja/Asianomistaja;3271;Christer Christersson Utriainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2304;5;Muu;1086;Mats Pehrsson Koljonen;Hallinto- ja ilmoitusasiat;Autiotilat
+2304;5;Muu;2760;Lars Rönkkö;Hallinto- ja ilmoitusasiat;Autiotilat
+2306;1;Kantaja/Asianomistaja;1652;Lars Lukkarinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2306;3;Selvitysmies;2971;Anders Sutinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2306;3;Selvitysmies;2058;Henrich Ollikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2306;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2306;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2306;2;Vastaaja/Syytetty;1181;Pehr Kuosmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2307;5;Muu;2474;Lars Pehrsson Pölhö;Muut rikokset;Muut sekalaiset rikokset
+2307;2;Vastaaja/Syytetty;871;Mats Larsson Kauppinen;Muut rikokset;Muut sekalaiset rikokset
+2308;1;Kantaja/Asianomistaja;2580;Nils Roivas;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2308;3;Selvitysmies;2028;Olof Nousiainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2308;3;Selvitysmies;2750;Anders Andersson Rönkkö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2308;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2308;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2308;3;Selvitysmies;6;Willhelm Afleck;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2308;3;Selvitysmies;1349;Pehr Kärkkäinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2308;3;Selvitysmies;1796;Lars Matsson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2308;2;Vastaaja/Syytetty;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2308;2;Vastaaja/Syytetty;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2309;1;Kantaja/Asianomistaja;710;Kainoboar;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2309;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2309;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2309;3;Selvitysmies;591;Ivar Johansson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2309;3;Selvitysmies;203;Pehr Halonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2309;3;Selvitysmies;796;Olof Karhunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2309;3;Selvitysmies;177;Jöran Hakkarainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2309;2;Vastaaja/Syytetty;3395;Nyslotboar;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2311;1;Kantaja/Asianomistaja;2003;Olof Olofsson Nissinen;Perintö;Pesänjako, erojako
+2311;1;Kantaja/Asianomistaja;1984;Jöran Olofsson Nissinen;Perintö;Pesänjako, erojako
+2312;1;Kantaja/Asianomistaja;642;Hans Henrichsson Jääskeläinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2312;5;Muu;2967;Påhl Suripää;Hallinto- ja ilmoitusasiat;Autiotilat
+2312;5;Muu;2817;Påhl Saikonen;Hallinto- ja ilmoitusasiat;Autiotilat
+2312;5;Muu;2523;Påhl Jönssön Rautapartanen;Hallinto- ja ilmoitusasiat;Autiotilat
+2313;1;Kantaja/Asianomistaja;759;Jöns Kankkunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2313;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2313;3;Selvitysmies;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2313;2;Vastaaja/Syytetty;2185;Henrich Påhlsson Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2314;1;Kantaja/Asianomistaja;2185;Henrich Påhlsson Partanen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2314;4;Todistaja;2756;Jöns Rönkkö;Haasteen laiminlyönti;Poissaolo käräjiltä
+2314;2;Vastaaja/Syytetty;1454;Jacob Matsson Lappalainen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2315;1;Kantaja/Asianomistaja;629;Anna Pehrsdotter Justen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2315;4;Todistaja;2058;Henrich Ollikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2315;2;Vastaaja/Syytetty;207;Philip Philipsson Halonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2316;1;Kantaja/Asianomistaja;207;Philip Philipsson Halonen;Perintö;Ilmoitus tai riita perinnöstä
+2316;2;Vastaaja/Syytetty;629;Anna Pehrsdotter Justen;Perintö;Ilmoitus tai riita perinnöstä
+2317;1;Kantaja/Asianomistaja;642;Hans Henrichsson Jääskeläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2317;5;Muu;2967;Påhl Suripää;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2317;5;Muu;879;Johan Kauranen (Haberman);Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2317;2;Vastaaja/Syytetty;3196;Erik Tuovinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2317;2;Vastaaja/Syytetty;3200;Jöran Tuovinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2318;1;Kantaja/Asianomistaja;1657;Olof Lukkarinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2318;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2318;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2318;3;Selvitysmies;836;Mats Husso Kasurinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2318;3;Selvitysmies;2971;Anders Sutinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2318;2;Vastaaja/Syytetty;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2319;1;Kantaja/Asianomistaja;1746;Jacob Martikainen;Vahingonkorvaukset;Kotieläinten vahingot
+2319;2;Vastaaja/Syytetty;2579;Lars Nilsson Roivas;Vahingonkorvaukset;Kotieläinten vahingot
+2320;1;Kantaja/Asianomistaja;620;Lars Juntunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2320;2;Vastaaja/Syytetty;1086;Mats Pehrsson Koljonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2321;1;Kantaja/Asianomistaja;3200;Jöran Tuovinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2321;1;Kantaja/Asianomistaja;3377;Olof Yletyinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2321;1;Kantaja/Asianomistaja;1121;Sigfred Koponen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2321;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2321;3;Selvitysmies;2058;Henrich Ollikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2321;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2321;3;Selvitysmies;2723;Henrich Ryynänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2321;3;Selvitysmies;2971;Anders Sutinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2321;3;Selvitysmies;2047;Anders Ollikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2321;3;Selvitysmies;1639;Hemming Jöransson Lukkarinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2321;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2322;1;Kantaja/Asianomistaja;1086;Mats Pehrsson Koljonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2322;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2322;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2322;3;Selvitysmies;873;Mats Matsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2322;3;Selvitysmies;1796;Lars Matsson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2322;2;Vastaaja/Syytetty;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2324;1;Kantaja/Asianomistaja;2018;Staphan Pehrsson Nissinen;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+2324;5;Muu;141;Johan Falck;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+2324;5;Muu;2850;Barbara Schade;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+2324;2;Vastaaja/Syytetty;2742;Bengt Räisänen;Maanhallinta ja nautinta;Tilan tai tontin hallinta
+2325;1;Kantaja/Asianomistaja;912;Henrich Kervinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2325;5;Muu;1861;Olof Mähönen;Hallinto- ja ilmoitusasiat;Autiotilat
+2325;5;Muu;2850;Barbara Schade;Hallinto- ja ilmoitusasiat;Autiotilat
+2325;5;Muu;1009;Staphan Kinnunen;Hallinto- ja ilmoitusasiat;Autiotilat
+2325;5;Muu;3200;Jöran Tuovinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2325;5;Muu;2742;Bengt Räisänen;Hallinto- ja ilmoitusasiat;Autiotilat
+2326;1;Kantaja/Asianomistaja;1438;Hans Henrichsson Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2326;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2326;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2326;3;Selvitysmies;1771;Pehr Martikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2326;2;Vastaaja/Syytetty;3350;Staphan Väisänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2327;1;Kantaja/Asianomistaja;1014;Johan Kiäpkin;Haasteen laiminlyönti;Poissaolo käräjiltä
+2327;2;Vastaaja/Syytetty;3269;Bertil Utriainen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2328;1;Kantaja/Asianomistaja;2760;Lars Rönkkö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2328;2;Vastaaja/Syytetty;3200;Jöran Tuovinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2329;1;Kantaja/Asianomistaja;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2329;5;Muu;1568;Johan Larsson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2329;4;Todistaja;1086;Mats Pehrsson Koljonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2329;4;Todistaja;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2329;2;Vastaaja/Syytetty;421;Lars Huttunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2330;1;Kantaja/Asianomistaja;1792;Jacob Matsson Martikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2330;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2330;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2330;3;Selvitysmies;2862;Påhl Sihvonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2330;2;Vastaaja/Syytetty;1746;Jacob Martikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2331;1;Kantaja/Asianomistaja;1796;Lars Matsson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2331;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2331;3;Selvitysmies;301;Sigfred Henrichsson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2331;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2331;2;Vastaaja/Syytetty;460;Henrich Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2332;1;Kantaja/Asianomistaja;443;Pehr Larsson Huttunen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2332;2;Vastaaja/Syytetty;441;Pehr Andersson Huttunen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2333;1;Kantaja/Asianomistaja;1771;Pehr Martikainen;Perintö;Pesänjako, erojako
+2333;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Perintö;Pesänjako, erojako
+2333;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Perintö;Pesänjako, erojako
+2333;3;Selvitysmies;1018;Knut Knutsson Bock;Perintö;Pesänjako, erojako
+2333;2;Vastaaja/Syytetty;1753;Jöran Martikainen;Perintö;Pesänjako, erojako
+2334;1;Kantaja/Asianomistaja;1541;Mats Mårtensson Lapveteläinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2334;4;Todistaja;2523;Påhl Jönssön Rautapartanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2334;2;Vastaaja/Syytetty;2018;Staphan Pehrsson Nissinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2335;1;Kantaja/Asianomistaja;1548;Philip Lapveteläinen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2335;2;Vastaaja/Syytetty;1520;Erik Andersson Lapveteläinen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2336;1;Kantaja/Asianomistaja;2688;Henrich Rytkönen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2336;4;Todistaja;3283;Pehr Utriainen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2336;2;Vastaaja/Syytetty;3167;Lars Tossavainen;Vahingonteot ja omavaltainen nautinta;Lieva vahingonteko
+2337;1;Kantaja/Asianomistaja;2688;Henrich Rytkönen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2337;2;Vastaaja/Syytetty;3167;Lars Tossavainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2338;1;Kantaja/Asianomistaja;3167;Lars Tossavainen;Väkivalta;Pahoinpitely
+2338;2;Vastaaja/Syytetty;2688;Henrich Rytkönen;Väkivalta;Pahoinpitely
+2339;1;Kantaja/Asianomistaja;2709;Pehr Rytkönen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2339;2;Vastaaja/Syytetty;3267;Anders Olofsson Utriainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2340;1;Kantaja/Asianomistaja;2710;Påhl Andersson Rytkönen;Hallinto- ja ilmoitusasiat;Autiotilat
+2340;5;Muu;3281;Nils Utriainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2340;5;Muu;2707;Pehr Pehrsson Rytkönen;Hallinto- ja ilmoitusasiat;Autiotilat
+2340;5;Muu;3172;Michel Larsson Tossavainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2340;5;Muu;2708;Pehr Påhlsson Rytkönen;Hallinto- ja ilmoitusasiat;Autiotilat
+2341;1;Kantaja/Asianomistaja;1747;Jacob Pehrsson Martikainen;Vahingonteot ja omavaltainen nautinta;Muut omavaltaisuudet
+2341;2;Vastaaja/Syytetty;2971;Anders Sutinen;Vahingonteot ja omavaltainen nautinta;Muut omavaltaisuudet
+2342;1;Kantaja/Asianomistaja;1489;Pehr Lappalainen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2342;2;Vastaaja/Syytetty;2184;Henrich Partanen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2343;1;Kantaja/Asianomistaja;3396;Erik Hiltunen leski;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2343;5;Muu;3367;Mats Väänänen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2343;2;Vastaaja/Syytetty;1771;Pehr Martikainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2344;1;Kantaja/Asianomistaja;3397;Sihvolaboar;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2344;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2344;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2344;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2344;2;Vastaaja/Syytetty;2111;Ollikkalaboar;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2345;1;Kantaja/Asianomistaja;2969;Anders Andersson Sutinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2345;1;Kantaja/Asianomistaja;1470;Lars Olofsson Lappalainen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2345;1;Kantaja/Asianomistaja;2978;Nils Andersson Sutinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2345;1;Kantaja/Asianomistaja;890;Henrich Kekkonen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2346;1;Kantaja/Asianomistaja;1677;Kaisa Kuosmanen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2346;2;Vastaaja/Syytetty;1652;Lars Lukkarinen;Velat, ulosmittaukset ja kaupankäynti;Velka, laina, ulosmittaus (raha, hyödyke, tavara)
+2347;1;Kantaja/Asianomistaja;1612;Maiko Pehrsdotter Lintunen;Perintö;Ilmoitus tai riita perinnöstä
+2347;2;Vastaaja/Syytetty;3351;Valborg Väisänen;Perintö;Ilmoitus tai riita perinnöstä
+2348;1;Kantaja/Asianomistaja;2707;Pehr Pehrsson Rytkönen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2348;2;Vastaaja/Syytetty;3287;Utrialaboar;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2349;1;Kantaja/Asianomistaja;974;Valborg Kettunen;Perintö;Ilmoitus tai riita perinnöstä
+2349;2;Vastaaja/Syytetty;2713;Påhl Påhlsson Rytkönen;Perintö;Ilmoitus tai riita perinnöstä
+2350;1;Kantaja/Asianomistaja;2627;Mats Pehrsson Ruotsalainen;Perintö;Ilmoitus tai riita perinnöstä
+2350;2;Vastaaja/Syytetty;2597;Anders Larsson Ruotsalainen;Perintö;Ilmoitus tai riita perinnöstä
+2351;1;Kantaja/Asianomistaja;2597;Anders Larsson Ruotsalainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2351;5;Muu;2638;Pehr Ruotsalainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2351;5;Muu;2523;Påhl Jönssön Rautapartanen;Hallinto- ja ilmoitusasiat;Autiotilat
+2351;5;Muu;2723;Henrich Ryynänen;Hallinto- ja ilmoitusasiat;Autiotilat
+2351;5;Muu;3261;Påhl Jönsson Ulmanen;Hallinto- ja ilmoitusasiat;Autiotilat
+2352;1;Kantaja/Asianomistaja;955;Olof Kettunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2352;3;Selvitysmies;668;Anders Jönsson Kaarakainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2352;3;Selvitysmies;1196;Hans Kurvinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2352;2;Vastaaja/Syytetty;2238;Michel Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2353;1;Kantaja/Asianomistaja;3369;Hans Väätäinen;Vahingonkorvaukset;Kotieläinten vahingot
+2353;2;Vastaaja/Syytetty;1621;Lars Lipponen;Vahingonkorvaukset;Kotieläinten vahingot
+2354;1;Kantaja/Asianomistaja;1996;Mårten Nissinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2354;3;Selvitysmies;2760;Lars Rönkkö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2354;3;Selvitysmies;455;Bertil Matsson Hynninen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2354;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2354;2;Vastaaja/Syytetty;2664;Pehr Ryhänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2355;1;Kantaja/Asianomistaja;2971;Anders Sutinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2355;2;Vastaaja/Syytetty;3367;Mats Väänänen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2356;1;Kantaja/Asianomistaja;1377;Olof Kekkonen;Hallinto- ja ilmoitusasiat;Tilakauppojen kuulutukset ja ilmoitukset
+2356;2;Vastaaja/Syytetty;689;Anders Olofsson Kekkonen;Hallinto- ja ilmoitusasiat;Tilakauppojen kuulutukset ja ilmoitukset
+2357;1;Kantaja/Asianomistaja;3272;Christer Utriainen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2357;2;Vastaaja/Syytetty;2224;Lars Karlsson Partanen;Haasteen laiminlyönti;Poissaolo käräjiltä
+2358;1;Kantaja/Asianomistaja;1633;Anders Lukkarinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2358;5;Muu;2292;Pehr Påhlsson Parviainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2358;5;Muu;2971;Anders Sutinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2358;5;Muu;890;Henrich Kekkonen;Hallinto- ja ilmoitusasiat;Autiotilat
+2358;5;Muu;2980;Nils Sutinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2359;1;Kantaja/Asianomistaja;845;Olof Katainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2359;5;Muu;1556;Thomas Lapveteläinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2359;5;Muu;2523;Påhl Jönssön Rautapartanen;Hallinto- ja ilmoitusasiat;Autiotilat
+2359;5;Muu;1735;Christer Martikainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2359;5;Muu;2723;Henrich Ryynänen;Hallinto- ja ilmoitusasiat;Autiotilat
+2360;1;Kantaja/Asianomistaja;651;Olof Hansson Jääskeläinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2360;5;Muu;2966;Pehr Suripää;Hallinto- ja ilmoitusasiat;Autiotilat
+2360;5;Muu;3398;Påhl Kekkonen;Hallinto- ja ilmoitusasiat;Autiotilat
+2360;5;Muu;1445;Henrich Lappalainen;Hallinto- ja ilmoitusasiat;Autiotilat
+2360;5;Muu;2862;Påhl Sihvonen;Hallinto- ja ilmoitusasiat;Autiotilat
+2361;1;Kantaja/Asianomistaja;1639;Hemming Jöransson Lukkarinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2361;5;Muu;1026;Erik Olofsson Kokkarinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2361;5;Muu;1652;Lars Lukkarinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2361;5;Muu;1657;Olof Lukkarinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2362;1;Kantaja/Asianomistaja;455;Bertil Matsson Hynninen;Perintö;Ilmoitus tai riita perinnöstä
+2364;1;Kantaja/Asianomistaja;3200;Jöran Tuovinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2364;5;Muu;1018;Knut Knutsson Bock;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2364;2;Vastaaja/Syytetty;2760;Lars Rönkkö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2364;2;Vastaaja/Syytetty;2752;Anders Rönkkö;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2365;1;Kantaja/Asianomistaja;871;Mats Larsson Kauppinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2365;5;Muu;1018;Knut Knutsson Bock;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2365;2;Vastaaja/Syytetty;421;Lars Huttunen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2366;1;Kantaja/Asianomistaja;1712;Påhl Makkonen;Hallinto- ja ilmoitusasiat;Autiotilat
+2366;1;Kantaja/Asianomistaja;2004;Olof Pehrsson Nissinen;Hallinto- ja ilmoitusasiat;Autiotilat
+2369;1;Kantaja/Asianomistaja;628;Herman Juse;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2369;5;Muu;871;Mats Larsson Kauppinen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2369;5;Muu;668;Anders Jönsson Kaarakainen;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2369;2;Vastaaja/Syytetty;539;Idensalmiboar;Hallinto- ja ilmoitusasiat;Muut hallinto- ja ilmoitusasiat
+2370;1;Kantaja/Asianomistaja;2580;Nils Roivas;Verorästit;Alaluokka_Verorästit
+2370;2;Vastaaja/Syytetty;668;Anders Jönsson Kaarakainen;Verorästit;Alaluokka_Verorästit
+2371;1;Kantaja/Asianomistaja;2352;Kaisa Philipsdotter;Kunnia;Aiheettomat syytökset
+2371;5;Muu;2579;Lars Nilsson Roivas;Kunnia;Aiheettomat syytökset
+2371;5;Muu;2578;Christer Nilsson Roivas;Kunnia;Aiheettomat syytökset
+2371;2;Vastaaja/Syytetty;2158;Anders Partanen;Kunnia;Aiheettomat syytökset
+2372;1;Kantaja/Asianomistaja;2280;Visa Jönsson Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2372;5;Muu;1018;Knut Knutsson Bock;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2372;5;Muu;643;Henrich Jääskeläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2372;5;Muu;2966;Pehr Suripää;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2372;5;Muu;357;Hans Hollander;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2372;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2372;3;Selvitysmies;1868;Hans Määttä;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2372;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2372;3;Selvitysmies;2600;Anders Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2372;2;Vastaaja/Syytetty;651;Olof Hansson Jääskeläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2373;1;Kantaja/Asianomistaja;1589;Simon Andersson Leinonen;Palkka- ja palkollisasiat;Maksamaton palkka
+2373;2;Vastaaja/Syytetty;923;Anders Olofsson Kettunen;Palkka- ja palkollisasiat;Maksamaton palkka
+2374;1;Kantaja/Asianomistaja;207;Philip Philipsson Halonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2374;5;Muu;357;Hans Hollander;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2374;3;Selvitysmies;2631;Nils Pehrsson Ruotsalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2374;2;Vastaaja/Syytetty;1796;Lars Matsson;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2375;1;Kantaja/Asianomistaja;1821;Michel Olofsson Mikkonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2375;5;Muu;3399;Daniel Andersson Niskanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2375;2;Vastaaja/Syytetty;1918;Anders Andersson Niskanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2376;1;Kantaja/Asianomistaja;2225;Lars Michelsson Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2376;2;Vastaaja/Syytetty;1469;Lars Matsson Lappalainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2377;1;Kantaja/Asianomistaja;2893;Påhl Pehrsson Sihvonen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2377;5;Muu;141;Johan Falck;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2377;5;Muu;2473;Pehr Pöksyläinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2377;2;Vastaaja/Syytetty;2058;Henrich Ollikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2378;1;Kantaja/Asianomistaja;2058;Henrich Ollikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2378;2;Vastaaja/Syytetty;1771;Pehr Martikainen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2379;1;Kantaja/Asianomistaja;443;Pehr Larsson Huttunen;Verorästit;Alaluokka_Verorästit
+2379;2;Vastaaja/Syytetty;1729;Axel Martikainen;Verorästit;Alaluokka_Verorästit
+2380;1;Kantaja/Asianomistaja;443;Pehr Larsson Huttunen;Verorästit;Alaluokka_Verorästit
+2380;3;Selvitysmies;3261;Påhl Jönsson Ulmanen;Verorästit;Alaluokka_Verorästit
+2380;3;Selvitysmies;2523;Påhl Jönssön Rautapartanen;Verorästit;Alaluokka_Verorästit
+2381;1;Kantaja/Asianomistaja;2184;Henrich Partanen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2381;3;Selvitysmies;1265;Pehr Kähkönen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2381;3;Selvitysmies;3199;Jöran Jöransson Tuovinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
+2381;2;Vastaaja/Syytetty;132;Påhl Pehrsson Eskelinen;Maanhallinta ja nautinta;Pelto, kaski, niitty, metsä
